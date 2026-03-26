@@ -1,0 +1,596 @@
+complaint_id,complaint_text,ward_complaint,street,department,date,status,asset_name,asset_type
+1,Public toilet not cleaned at Chairmanraju Nagar,10,Chairmanraju Nagar,Sanitation,2026-01-01,Resolved,PUBLIC TOILET,PUBLIC
+2,Park maintenance neglected at K S Ramasamy Street,10,K S Ramasamy Street,Parks,2026-01-02,Resolved,PARK,PARK
+3,Public facility locked or unusable at Periyar Nagar Tenvadal Street 3,10,Periyar Nagar Tenvadal Street 3,Sanitation,2026-01-03,Resolved,PUBLIC TOILET,PUBLIC
+4,Civic maintenance issue reported at Periyar Nagar Tenvadal Street 3,10,Periyar Nagar Tenvadal Street 3,Maintenance,2026-01-04,In Progress,PUBLIC TOILET,PUBLIC
+5,Water supply missing at public facility on Chairmanraju Nagar,10,Chairmanraju Nagar,Sanitation,2026-01-05,Resolved,PUBLIC TOILET,PUBLIC
+6,Cleanliness issue reported at Mettupalayam Road,10,Mettupalayam Road,Maintenance,2026-01-06,Open,MARKET,DAILY MARKET
+7,Public facility locked or unusable at Kannappapuram South Main Road,10,Kannappapuram South Main Road,Sanitation,2026-01-07,Open,PUBLIC TOILET,PUBLIC
+8,Unsafe surroundings near school at Maniamvellappan Street,11,Maniamvellappan Street,Roads,2026-01-08,Open,CORPORATION HIGHER SECONDARY SCHOOL,EDUCATIONAL
+9,Park maintenance neglected at K A Balasubramaniyam Road 3Rd Cross,11,K A Balasubramaniyam Road 3Rd Cross,Parks,2026-01-09,Resolved,CORPORATION CHILDRENS PARK,PARK
+10,Civic maintenance issue reported at Palanisamy Conar Street,11,Palanisamy Conar Street,Maintenance,2026-01-10,Open,GODOWN,GODOWN
+11,Unsafe surroundings near school at Maniamvellappan Street,11,Maniamvellappan Street,Roads,2026-01-11,In Progress,CORPORATION HIGHER SECONDARY SCHOOL,EDUCATIONAL
+12,Public toilet not cleaned at Alakannan Street,11,Alakannan Street,Sanitation,2026-01-12,Resolved,LIBRARY,PUBLIC
+13,Cleanliness issue reported at Maniamvellappan Street,11,Maniamvellappan Street,Maintenance,2026-01-13,Open,CORPORATION HIGHER SECONDARY SCHOOL,EDUCATIONAL
+14,Civic maintenance issue reported at Alakannan Street,11,Alakannan Street,Maintenance,2026-01-14,Resolved,LIBRARY,PUBLIC
+15,Cleanliness issue reported at Anna Nagar,12,Anna Nagar,Maintenance,2026-01-15,Open,SAMUDHAYA KOODAM,COMMUNITY HALL
+16,Public toilet not cleaned at Anna Nagar,12,Anna Nagar,Sanitation,2026-01-16,Resolved,SAMUDHAYA KOODAM,COMMUNITY HALL
+17,Park lights not working at Maniam Kaliappan Street,12,Maniam Kaliappan Street,Parks,2026-01-17,Open,CORPORATION PARK,PARK
+18,Garbage accumulation inside park at Ganapathy Layout,12,Ganapathy Layout,Parks,2026-01-18,Resolved,CORPORATION PARK,PARK
+19,Garbage accumulation inside park at Kaliappan Street,12,Kaliappan Street,Parks,2026-01-19,Resolved,CORPORATION PARK,PARK
+20,Garbage accumulation inside park at Ganapathy Layout,12,Ganapathy Layout,Parks,2026-01-20,Resolved,CORPORATION PARK,PARK
+21,Mosquito breeding on vacant land at Ganapathy Layout,12,Ganapathy Layout,Sanitation,2026-01-21,Open,CORPORATION PARK,PARK
+22,Park maintenance neglected at S K V  Nagar,12,S K V  Nagar,Parks,2026-01-22,Open,CORPORATION PARK,PARK
+23,Garbage dump near office at Maniam Kaliappan Street,12,Maniam Kaliappan Street,Maintenance,2026-01-23,In Progress,CORPORATION PARK,PARK
+24,Illegal dumping on vacant land at N S R Road,12,N S R Road,Sanitation,2026-01-24,Resolved,CORPORATION RESERVE SITE,VACANT
+25,Park lights not working at Chinthamani Nagar,12,Chinthamani Nagar,Parks,2026-01-25,Open,CORPORATION PARK,PARK
+26,Park lights not working at K G Layout,12,K G Layout,Parks,2026-01-26,Open,CHILDRENS PARK,PARK
+27,Public facility locked or unusable at Thadagam Road,13,Thadagam Road,Sanitation,2026-01-27,Resolved,PUBLIC TOILET,PUBLIC
+28,Park lights not working at Bhuvaneshwari Nagar,13,Bhuvaneshwari Nagar,Parks,2026-01-28,In Progress,CORPORATION PARK,PARK
+29,Public facility locked or unusable at Nethaji Colony,13,Nethaji Colony,Sanitation,2026-01-29,Resolved,PUBLIC TOILET,PUBLIC
+30,Drain overflow near school at R K Naidu Layout,13,R K Naidu Layout,Roads,2026-01-30,Open,CORPORATION SCHOOL,EDUCATIONAL
+31,Public toilet not cleaned at Subramaniapuram Street,13,Subramaniapuram Street,Sanitation,2026-01-31,Resolved,PUBLIC TOILET,PUBLIC
+32,Broken road near school at Amman Kovil Street,13,Amman Kovil Street,Roads,2026-02-01,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+33,Broken road near school at Vinayagar Kovil Street,13,Vinayagar Kovil Street,Roads,2026-02-02,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+34,Illegal dumping on vacant land at Anna Street,13,Anna Street,Sanitation,2026-02-03,Resolved,CORPORATION VACANT LAND,VACANT
+35,Drain overflow near school at Subramaniapuram Street,13,Subramaniapuram Street,Roads,2026-02-04,In Progress,PUBLIC TOILET,PUBLIC
+36,Park lights not working at Chinnachetti Street,13,Chinnachetti Street,Parks,2026-02-05,Resolved,CORPORATION PARK,PARK
+37,Drain overflow near school at Dr Radhakrishnan Street,13,Dr Radhakrishnan Street,Roads,2026-02-06,Resolved,BABY SCHOOL,EDUCATIONAL
+38,Park maintenance neglected at Amman Kovil Street,13,Amman Kovil Street,Parks,2026-02-07,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+39,Public toilet not cleaned at Thilakar Street,14,Thilakar Street,Sanitation,2026-02-08,Resolved,PUBLIC TOILET,PUBLIC
+40,Civic maintenance issue reported at Dr Ambedkar Road,14,Dr Ambedkar Road,Maintenance,2026-02-09,Open,CHILDRENS WELFARE CENTER,OTHERS
+41,Broken road near school at Dr Ambedkar Road,14,Dr Ambedkar Road,Roads,2026-02-10,Resolved,CHILDRENS WELFARE CENTER,OTHERS
+42,Public facility locked or unusable at Dr Ambedkar Road,14,Dr Ambedkar Road,Sanitation,2026-02-11,Resolved,CHILDRENS WELFARE CENTER,OTHERS
+43,Unsafe surroundings near school at Bharathiyar Street,14,Bharathiyar Street,Roads,2026-02-12,Open,BABY SCHOOL,EDUCATIONAL
+44,Drain overflow near school at Sasthiri Street,14,Sasthiri Street,Roads,2026-02-13,Open,BABY SCHOOL,EDUCATIONAL
+45,Broken road near school at Thilakar Street,14,Thilakar Street,Roads,2026-02-14,In Progress,PUBLIC TOILET,PUBLIC
+46,Public toilet not cleaned at Dr Ambedkar Road,14,Dr Ambedkar Road,Sanitation,2026-02-15,Open,CHILDRENS WELFARE CENTER,OTHERS
+47,Civic maintenance issue reported at Thadagam Road,14,Thadagam Road,Maintenance,2026-02-16,Resolved,OHT MAINTENANCE ROOM,OTHERS
+48,Water supply missing at public facility on Maruthamalai Road,15,Maruthamalai Road,Sanitation,2026-02-17,Resolved,BOREWELL WATER SUPPLY,PUBLIC
+49,Cleanliness issue reported at Maruthamalai Road,15,Maruthamalai Road,Maintenance,2026-02-18,Open,BOREWELL WATER SUPPLY,PUBLIC
+50,Broken road near school at Maruthamalai Road,15,Maruthamalai Road,Roads,2026-02-19,In Progress,BOREWELL WATER SUPPLY,PUBLIC
+51,Public toilet not cleaned at Maruthamalai Road,15,Maruthamalai Road,Sanitation,2026-02-20,Resolved,BOREWELL WATER SUPPLY,PUBLIC
+52,Park lights not working at Jegadesh Nagar,15,Jegadesh Nagar,Parks,2026-02-21,In Progress,CORPORATION PARK,PARK
+53,Park maintenance neglected at Srinagar Street No 1,15,Srinagar Street No 1,Parks,2026-02-22,In Progress,CORPORATION PARK,PARK
+54,Garbage accumulation inside park at Aiswarya Nagar,15,Aiswarya Nagar,Parks,2026-02-23,Open,CORPORATION PARK,PARK
+55,Garbage accumulation inside park at Poon Nagar,15,Poon Nagar,Parks,2026-02-24,In Progress,CORPORATION PARK,PARK
+56,Garbage accumulation inside park at Aiswarya Nagar,15,Aiswarya Nagar,Parks,2026-02-25,Open,CORPORATION PARK,PARK
+57,Public toilet not cleaned at Karuparayan Kovil Street,15,Karuparayan Kovil Street,Sanitation,2026-02-26,In Progress,PUBLIC TOILET,PUBLIC
+58,Public toilet not cleaned at Karuparayan Kovil Street,15,Karuparayan Kovil Street,Sanitation,2026-02-27,Resolved,PUBLIC TOILET,PUBLIC
+59,Drain overflow near school at Thiyagi Kumaran Street,15,Thiyagi Kumaran Street,Roads,2026-02-28,Open,CORPORATION SCHOOL,EDUCATIONAL
+60,Park maintenance neglected at Radhika  Avenue,15,Radhika  Avenue,Parks,2026-03-01,In Progress,CORPORATION PARK,PARK
+61,Park maintenance neglected at K K Colony,15,K K Colony,Parks,2026-03-02,In Progress,CORPORATION PARK,PARK
+62,Garbage dump near office at Maruthamalai Road,15,Maruthamalai Road,Maintenance,2026-03-03,Resolved,BOREWELL WATER SUPPLY,PUBLIC
+63,Unsafe surroundings near school at Maruthamalai Road,15,Maruthamalai Road,Roads,2026-03-04,Open,BOREWELL WATER SUPPLY,PUBLIC
+64,Public toilet not cleaned at Maruthamalai Road,15,Maruthamalai Road,Sanitation,2026-03-05,In Progress,BOREWELL WATER SUPPLY,PUBLIC
+65,Water supply missing at public facility on Maruthamalai Road,15,Maruthamalai Road,Sanitation,2026-03-06,In Progress,BOREWELL WATER SUPPLY,PUBLIC
+66,Public facility locked or unusable at Pudhukinaru Street,15,Pudhukinaru Street,Sanitation,2026-03-07,Resolved,PUBLIC TOILET,PUBLIC
+67,Park maintenance neglected at Rams Nagar,15,Rams Nagar,Parks,2026-03-08,Open,CORPORATION SITE,PARK
+68,Illegal dumping on vacant land at Rams Nagar,15,Rams Nagar,Sanitation,2026-03-09,Open,CORPORATION SITE,PARK
+69,Mosquito breeding on vacant land at Rams Nagar,15,Rams Nagar,Sanitation,2026-03-10,Resolved,CORPORATION SITE,PARK
+70,Cleanliness issue reported at Dr Radhakrishnan Street,20,Dr Radhakrishnan Street,Maintenance,2026-03-11,Resolved,COMMUNITY HALL,COMMUNITY HALL
+71,Park lights not working at Nethaji Road,20,Nethaji Road,Parks,2026-03-12,Resolved,CORPORATION PARK,PARK
+72,Unsafe surroundings near school at Sugarcane Road,20,Sugarcane Road,Roads,2026-03-13,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+73,Unsafe surroundings near school at Sugarcane Road,20,Sugarcane Road,Roads,2026-03-14,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+74,Water stagnation near hospital at Sugarcane Road,20,Sugarcane Road,Health,2026-03-15,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+75,Cleanliness issue reported at Sugarcane Road,20,Sugarcane Road,Maintenance,2026-03-16,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+76,Water supply missing at public facility on Anna Street,20,Anna Street,Sanitation,2026-03-17,Open,PUBLIC TOILET,PUBLIC
+77,Public toilet not cleaned at Sugarcane Road,20,Sugarcane Road,Sanitation,2026-03-18,Open,CORPORATION SCHOOL,EDUCATIONAL
+78,Civic maintenance issue reported at Sundapalayam Road,21,Sundapalayam Road,Maintenance,2026-03-19,In Progress,CORPORATION BURIAL GROUND,BURIAL GROUND
+79,Waste disposal issue near hospital at Gokulam Colony,21,Gokulam Colony,Health,2026-03-20,Resolved,CORPORATION DISPENSARY,HOSPITAL
+80,Garbage accumulation inside park at Gokulam Colony 4,21,Gokulam Colony 4,Parks,2026-03-21,Open,CORPORATION PARK,PARK
+81,Cleanliness issue reported at Sundapalayam Road,21,Sundapalayam Road,Maintenance,2026-03-22,Resolved,CORPORATION BURIAL GROUND,BURIAL GROUND
+82,Water supply missing at public facility on Thondamuthur Road,21,Thondamuthur Road,Sanitation,2026-03-23,In Progress,PUBLIC TOILET,PUBLIC
+83,Cleanliness issue reported at Naicker Thottam,21,Naicker Thottam,Maintenance,2026-03-24,Open,CORPORATION MARRIAGE HALL,MARRIAGE HALL
+84,Civic maintenance issue reported at Gokulam Colony 3,21,Gokulam Colony 3,Maintenance,2026-03-25,Open,CORPORATION COMMUNITY HALL,COMMUNITY HALL
+85,Water leakage near office at Dr.Rajendra Prasad Road,22,Dr.Rajendra Prasad Road,Maintenance,2026-03-26,Resolved,COVAI ELECTRIC BOARD LABOURS ORGANIZATIONS,OFFICE
+86,Traffic congestion near commercial area at Bharathi Park Main Road - 2,22,Bharathi Park Main Road - 2,Sanitation,2026-03-27,Resolved,CORPORATION BUILDING,COMMERCIAL
+87,Civic maintenance issue reported at Ramalingam Colony,22,Ramalingam Colony,Maintenance,2026-03-28,Open,CORPORATION KALYANA MANDAPAM,MARRIAGE HALL
+88,Water stagnation near hospital at Bharathi Park Main Road - 2,22,Bharathi Park Main Road - 2,Health,2026-03-29,In Progress,CORPORATION BUILDING,COMMERCIAL
+89,Drain overflow near school at Ramalingam Colony,22,Ramalingam Colony,Roads,2026-03-30,Resolved,CORPORATION KALYANA MANDAPAM,MARRIAGE HALL
+90,Water leakage near office at Siruvani Nagar,22,Siruvani Nagar,Maintenance,2026-03-31,Open,WATER BOARD OFFICE,OFFICE
+91,Civic maintenance issue reported at Ramalingam Colony,22,Ramalingam Colony,Maintenance,2026-01-01,In Progress,CORPORATION KALYANA MANDAPAM,MARRIAGE HALL
+92,Traffic congestion near commercial area at Ramalingam Colony,22,Ramalingam Colony,Sanitation,2026-01-02,Open,CORPORATION KALYANA MANDAPAM,MARRIAGE HALL
+93,Cleanliness issue reported at Bharathi Park Main Road - 2,22,Bharathi Park Main Road - 2,Maintenance,2026-01-03,In Progress,CORPORATION BUILDING,COMMERCIAL
+94,Park maintenance neglected at New Nesavalar Colony,22,New Nesavalar Colony,Parks,2026-01-04,Resolved,CORPORATION ENTRANCE PARK RESERVED SITE,PARK
+95,Garbage dump near office at Bharathi Park Main Road,22,Bharathi Park Main Road,Maintenance,2026-01-05,Open,WATER BOARD OFFICE,OFFICE
+96,Park lights not working at Alagesan Main Road,22,Alagesan Main Road,Parks,2026-01-06,In Progress,CORPORATION PARK RESERVED SITE,PARK
+97,Civic maintenance issue reported at Mettupalayam Road,22,Mettupalayam Road,Maintenance,2026-01-07,In Progress,ANNA VEGETABLE MARKET,DAILY MARKET
+98,Water leakage near office at Mettupalayam Road,22,Mettupalayam Road,Maintenance,2026-01-08,In Progress,ANNA VEGETABLE MARKET,DAILY MARKET
+99,Traffic congestion near commercial area at Krishnasamy Road,22,Krishnasamy Road,Sanitation,2026-01-09,Open,CBE CENTRAL CO OPERATIVE SOCIETY,COMMERCIAL
+100,Civic maintenance issue reported at Krishnasamy Road,22,Krishnasamy Road,Maintenance,2026-01-10,Resolved,CBE CENTRAL CO OPERATIVE SOCIETY,COMMERCIAL
+101,Traffic congestion near commercial area at Mettupalayam Road,22,Mettupalayam Road,Sanitation,2026-01-11,Open,ANNA VEGETABLE MARKET,DAILY MARKET
+102,Water leakage near office at Kamarajapuram,22,Kamarajapuram,Maintenance,2026-01-12,In Progress,COIMBATORE CORPORATION SOCIETY CENTRE,OFFICE
+103,Garbage dump near office at Arokiyasamy Road,23,Arokiyasamy Road,Maintenance,2026-01-13,Open,CORPORATION WEST ZONE OFFICE,OFFICE
+104,Broken road near school at Arokiyasamy Road,23,Arokiyasamy Road,Roads,2026-01-14,Open,CORPORATION WEST ZONE OFFICE,OFFICE
+105,Cleanliness issue reported at D.B.Road,23,D.B.Road,Maintenance,2026-01-15,Resolved,CORPORATION BUILDING,OTHERS
+106,Cleanliness issue reported at Bashikarralu Road,23,Bashikarralu Road,Maintenance,2026-01-16,In Progress,COVAI CORPORATION,ABANDONED
+107,Cleanliness issue reported at Bashikarralu Road,23,Bashikarralu Road,Maintenance,2026-01-17,Open,COVAI CORPORATION,ABANDONED
+108,Cleanliness issue reported at Goulibrown Road,23,Goulibrown Road,Maintenance,2026-01-18,Resolved,CORPORATION MARKET,DAILY MARKET
+109,Unsafe surroundings near school at Mettupalayam Road,23,Mettupalayam Road,Roads,2026-01-19,In Progress,CORPORATION KENWYN MIDDLE SCHOOL,EDUCATIONAL
+110,Civic maintenance issue reported at Sir.Shanmugam Road,23,Sir.Shanmugam Road,Maintenance,2026-01-20,Resolved,CCMC ZSO QUARTERS,RESIDENTIAL
+111,Unsafe surroundings near school at Azad Rd,23,Azad Rd,Roads,2026-01-21,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+112,Traffic congestion near commercial area at Range Gowda Street,24,Range Gowda Street,Sanitation,2026-01-22,Open,FLOWER MARKET,COMMERCIAL
+113,Traffic congestion near commercial area at Mettupalayam Road,24,Mettupalayam Road,Sanitation,2026-01-23,In Progress,CORPORATION BUILDING,COMMERCIAL
+114,Civic maintenance issue reported at V.O.C Street,24,V.O.C Street,Maintenance,2026-01-24,Resolved,CORPORATION COMMUNITY HALL,COMMUNITY HALL
+115,Garbage overflow near commercial area at Thadagam Road,24,Thadagam Road,Sanitation,2026-01-25,In Progress,THE CBE SOCIAL CLUB,COMMERCIAL
+116,Water leakage near office at D B Road,24,D B Road,Maintenance,2026-01-26,Open,CORPORATION WARD OFFICE,OFFICE
+117,Cleanliness issue reported at D B Road,24,D B Road,Maintenance,2026-01-27,In Progress,CORPORATION WARD OFFICE,OFFICE
+118,Public facility locked or unusable at Light House Road,24,Light House Road,Sanitation,2026-01-28,Open,CORPORATION PUBLIC TOILET,PUBLIC
+119,Public toilet not cleaned at Kamarajar Lane,24,Kamarajar Lane,Sanitation,2026-01-29,Open,CORPORATION PUBLIC TOILET,PUBLIC
+120,Drain overflow near school at Arunachalam Road,24,Arunachalam Road,Roads,2026-01-30,In Progress,CORPORATION PLAY SCHOOL,EDUCATIONAL
+121,Garbage accumulation inside park at Subramaniam Road,24,Subramaniam Road,Parks,2026-01-31,In Progress,GANDHI PARK,PARK
+122,Public toilet not cleaned at Thadagam Road,24,Thadagam Road,Sanitation,2026-02-01,In Progress,THE CBE SOCIAL CLUB,COMMERCIAL
+123,Cleanliness issue reported at Thadagam Road,24,Thadagam Road,Maintenance,2026-02-02,Resolved,THE CBE SOCIAL CLUB,COMMERCIAL
+124,Waste disposal issue near hospital at Mettupalayam Road,24,Mettupalayam Road,Health,2026-02-03,Resolved,CORPORATION BUILDING,COMMERCIAL
+125,Waste disposal issue near hospital at Langar Kana Road 1,24,Langar Kana Road 1,Health,2026-02-04,Open,CORPORATION HOSPITAL,HOSPITAL
+126,Water stagnation near hospital at Langar Kana Road 1,24,Langar Kana Road 1,Health,2026-02-05,Open,CORPORATION HOSPITAL,HOSPITAL
+127,Drain overflow near school at Ramalingam Road,24,Ramalingam Road,Roads,2026-02-06,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+128,Cleanliness issue reported at Thadagam Road,24,Thadagam Road,Maintenance,2026-02-07,Resolved,THE CBE SOCIAL CLUB,COMMERCIAL
+129,Garbage dump near office at Arokyasamy Street,24,Arokyasamy Street,Maintenance,2026-02-08,Resolved,NIGHT SHELTER OFFICE,OFFICE
+130,Broken road near school at Arokyasamy Street,24,Arokyasamy Street,Roads,2026-02-09,Resolved,NIGHT SHELTER OFFICE,OFFICE
+131,Traffic congestion near commercial area at Arokyasamy Street,24,Arokyasamy Street,Sanitation,2026-02-10,In Progress,NIGHT SHELTER OFFICE,OFFICE
+132,Civic maintenance issue reported at Subramaniam Road,24,Subramaniam Road,Maintenance,2026-02-11,Resolved,GANDHI PARK,PARK
+133,Cleanliness issue reported at Subramaniam Road,24,Subramaniam Road,Maintenance,2026-02-12,In Progress,GANDHI PARK,PARK
+134,Garbage dump near office at Azad Road,24,Azad Road,Maintenance,2026-02-13,In Progress,CORPORATION DIVISION OFFICE,OFFICE
+135,Waste disposal issue near hospital at Krishnasamy Road,25,Krishnasamy Road,Health,2026-02-14,In Progress,SEETHALAKSHMI MATERNITY CENTRE,HOSPITAL
+136,Broken road near school at Devanga Higher Secondary School Road,25,Devanga Higher Secondary School Road,Roads,2026-02-15,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+137,Civic maintenance issue reported at Devanga Higher Secondary School Road,25,Devanga Higher Secondary School Road,Maintenance,2026-02-16,Open,CORPORATION SCHOOL,EDUCATIONAL
+138,Garbage dump near office at Devanga Higher Secondary School Road,25,Devanga Higher Secondary School Road,Maintenance,2026-02-17,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+139,Park maintenance neglected at Thiyagaraya Pudu Street 2,25,Thiyagaraya Pudu Street 2,Parks,2026-02-18,Resolved,ANNA PARK,PARK
+140,Cleanliness issue reported at Krishnasamy Road,25,Krishnasamy Road,Maintenance,2026-02-19,In Progress,SEETHALAKSHMI MATERNITY CENTRE,HOSPITAL
+141,Drain overflow near school at Krishnasamy Road,25,Krishnasamy Road,Roads,2026-02-20,Resolved,SEETHALAKSHMI MATERNITY CENTRE,HOSPITAL
+142,Water leakage near office at Sasthiri Street,37,Sasthiri Street,Maintenance,2026-02-21,Resolved,CORPORATION OFFICE,OFFICE
+143,Unsafe surroundings near school at N G R Street,37,N G R Street,Roads,2026-02-22,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+144,Public toilet not cleaned at Vilankurichi Road,38,Vilankurichi Road,Sanitation,2026-02-23,Resolved,SOLID WASTE DISPOSAL SITE AREA,PUBLIC
+145,Cleanliness issue reported at Vilankurichi Road,38,Vilankurichi Road,Maintenance,2026-02-24,Open,SOLID WASTE DISPOSAL SITE AREA,PUBLIC
+146,Public facility locked or unusable at Rangammal Koil Street,39,Rangammal Koil Street,Sanitation,2026-02-25,In Progress,CORPORATION WATER TANK,PUBLIC
+147,Broken road near school at Avarampalayam Road,39,Avarampalayam Road,Roads,2026-02-26,In Progress,CORPORATION CHILD SCHOOL,EDUCATIONAL
+148,Broken road near school at Avarampalayam Road,39,Avarampalayam Road,Roads,2026-02-27,Resolved,CORPORATION CHILD SCHOOL,EDUCATIONAL
+149,Water supply missing at public facility on Lal Bhathur Colony,39,Lal Bhathur Colony,Sanitation,2026-02-28,Resolved,COIMBATORE CORPORATION,PUBLIC
+150,Unsafe surroundings near school at Avarampalayam Road,39,Avarampalayam Road,Roads,2026-03-01,Resolved,CORPORATION CHILD SCHOOL,EDUCATIONAL
+151,Public facility locked or unusable at Avarampalayam Road,39,Avarampalayam Road,Sanitation,2026-03-02,In Progress,CORPORATION CHILD SCHOOL,EDUCATIONAL
+152,Water leakage near office at Avarampalayam Road,39,Avarampalayam Road,Maintenance,2026-03-03,In Progress,CORPORATION CHILD SCHOOL,EDUCATIONAL
+153,Water leakage near office at Avarampalayam Road,39,Avarampalayam Road,Maintenance,2026-03-04,Resolved,CORPORATION CHILD SCHOOL,EDUCATIONAL
+154,Garbage overflow near commercial area at Bharathi Colony,39,Bharathi Colony,Sanitation,2026-03-05,Resolved,PEELAMEDU POWERLOOM WEAVERS CO-OP SOCIETY,COMMERCIAL
+155,Garbage overflow near commercial area at Bharathi Colony Cross Road,39,Bharathi Colony Cross Road,Sanitation,2026-03-06,In Progress,PEELAMEDU POWERLOOM WEAVERS CO-OP SOCIETY,COMMERCIAL
+156,Garbage overflow near commercial area at Bharathi Colony Cross Road,39,Bharathi Colony Cross Road,Sanitation,2026-03-07,In Progress,PEELAMEDU POWERLOOM WEAVERS CO-OP SOCIETY,COMMERCIAL
+157,Public facility locked or unusable at Duraiswamy Lay Out,39,Duraiswamy Lay Out,Sanitation,2026-03-08,Open,CORPORATION LIBRARY,PUBLIC
+158,Traffic congestion near commercial area at Burhani Society,39,Burhani Society,Sanitation,2026-03-09,In Progress,COIMBATORE CORPORATION,COMMERCIAL
+159,Garbage overflow near commercial area at Duraiswamy Lay Out,39,Duraiswamy Lay Out,Sanitation,2026-03-10,In Progress,CORPORATION LIBRARY,PUBLIC
+160,Garbage overflow near commercial area at Duraiswamy Lay Out,39,Duraiswamy Lay Out,Sanitation,2026-03-11,Open,CORPORATION LIBRARY,PUBLIC
+161,Garbage overflow near commercial area at Duraiswamy Lay Out,39,Duraiswamy Lay Out,Sanitation,2026-03-12,In Progress,CORPORATION LIBRARY,PUBLIC
+162,Garbage overflow near commercial area at Duraiswamy Lay Out,39,Duraiswamy Lay Out,Sanitation,2026-03-13,Resolved,CORPORATION LIBRARY,PUBLIC
+163,Garbage overflow near commercial area at Duraiswamy Lay Out,39,Duraiswamy Lay Out,Sanitation,2026-03-14,Open,CORPORATION LIBRARY,PUBLIC
+164,Garbage overflow near commercial area at Duraiswamy Lay Out,39,Duraiswamy Lay Out,Sanitation,2026-03-15,Open,CORPORATION LIBRARY,PUBLIC
+165,Garbage overflow near commercial area at Duraiswamy Lay Out,39,Duraiswamy Lay Out,Sanitation,2026-03-16,In Progress,CORPORATION LIBRARY,PUBLIC
+166,Traffic congestion near commercial area at Duraiswamy Lay Out,39,Duraiswamy Lay Out,Sanitation,2026-03-17,In Progress,CORPORATION LIBRARY,PUBLIC
+167,Garbage overflow near commercial area at Duraiswamy Lay Out,39,Duraiswamy Lay Out,Sanitation,2026-03-18,Open,CORPORATION LIBRARY,PUBLIC
+168,Garbage overflow near commercial area at Duraiswamy Lay Out,39,Duraiswamy Lay Out,Sanitation,2026-03-19,Open,CORPORATION LIBRARY,PUBLIC
+169,Traffic congestion near commercial area at Duraiswamy Lay Out,39,Duraiswamy Lay Out,Sanitation,2026-03-20,Open,CORPORATION LIBRARY,PUBLIC
+170,Water supply missing at public facility on Masthi Street,39,Masthi Street,Sanitation,2026-03-21,In Progress,COIMBATORE CORPORATION PUBLIC TOILET,PUBLIC
+171,Public toilet not cleaned at Masthi Street,39,Masthi Street,Sanitation,2026-03-22,Open,COIMBATORE CORPORATION PUBLIC TOILET,PUBLIC
+172,Park lights not working at Murugan Nagar,39,Murugan Nagar,Parks,2026-03-23,Open,CORPARATION PARK,PARK
+173,Mosquito breeding on vacant land at V G Rao Nagar,40,V G Rao Nagar,Sanitation,2026-03-24,In Progress,COIMBATORE CORPORATION LAND,VACANT
+174,Park maintenance neglected at Varadarajalu Nagar,40,Varadarajalu Nagar,Parks,2026-03-25,Resolved,COIMBATORE CORPORATION PARK,PARK
+175,Garbage accumulation inside park at Bpc Colony,40,Bpc Colony,Parks,2026-03-26,In Progress,BRINDHAVAN  PARK,PARK
+176,Garbage accumulation inside park at V N S Nagar,40,V N S Nagar,Parks,2026-03-27,Resolved,COIMBATORE CORPORATION PARK,PARK
+177,Drain overflow near school at V G Rao Nagar,40,V G Rao Nagar,Roads,2026-03-28,In Progress,COIMBATORE CORPORATION LAND,VACANT
+178,Water leakage near office at Shoba Nagar,40,Shoba Nagar,Maintenance,2026-03-29,Resolved,CORPORATION WARD OFFICE,OFFICE
+179,Garbage accumulation inside park at Hindustan Avenue,40,Hindustan Avenue,Parks,2026-03-30,Open,COIMBATORE CORPORATION PARK,PARK
+180,Garbage dump near office at Arasamara Street,40,Arasamara Street,Maintenance,2026-03-31,Resolved,CORPORATION WARD OFFICE,OFFICE
+181,Water supply missing at public facility on Avarampalayam Road,40,Avarampalayam Road,Sanitation,2026-01-01,In Progress,PUBLIC TOILET,PUBLIC
+182,Garbage dump near office at Vinayagar Koil Street,40,Vinayagar Koil Street,Maintenance,2026-01-02,In Progress,COIMBATORE CORPORATION OFFICE,OFFICE
+183,Park lights not working at Vinayagar Koil Street,40,Vinayagar Koil Street,Parks,2026-01-03,Resolved,COIMBATORE CORPORATION OFFICE,OFFICE
+184,Garbage dump near office at Sankaralingam Road,41,Sankaralingam Road,Maintenance,2026-01-04,Open,COIMBATORE WATER CORPORATION,OFFICE
+185,Garbage dump near office at K R G Nagar,41,K R G Nagar,Maintenance,2026-01-05,In Progress,BIRTH & DEATH CERTIFICATE OFFICE,OFFICE
+186,Public facility locked or unusable at Vasuki Street,41,Vasuki Street,Sanitation,2026-01-06,In Progress,CORPORATION TOILET,PUBLIC
+187,Drain overflow near school at Avaiyar Street,41,Avaiyar Street,Roads,2026-01-07,Open,CORPORATION SCHOOL,EDUCATIONAL
+188,Garbage dump near office at Sri Vaari Ramakrishna Garden,41,Sri Vaari Ramakrishna Garden,Maintenance,2026-01-08,Open,CORPORATION WATER TAX OFFICE,OFFICE
+189,Public toilet not cleaned at Gandhi Managar,41,Gandhi Managar,Sanitation,2026-01-09,Resolved,CORPORATION LIBRARY,PUBLIC
+190,Garbage dump near office at Gandhi Managar,41,Gandhi Managar,Maintenance,2026-01-10,Resolved,CORPORATION LIBRARY,PUBLIC
+191,Unsafe surroundings near school at Gandhi Managar,41,Gandhi Managar,Roads,2026-01-11,Resolved,CORPORATION LIBRARY,PUBLIC
+192,Civic maintenance issue reported at Kongu Nagar,41,Kongu Nagar,Maintenance,2026-01-12,In Progress,CORPORATION WATER TANK BUILDING,OTHERS
+193,Garbage dump near office at Gandhi Managar,41,Gandhi Managar,Maintenance,2026-01-13,Open,CORPORATION LIBRARY,PUBLIC
+194,Water supply missing at public facility on Gandhi Managar,41,Gandhi Managar,Sanitation,2026-01-14,Open,CORPORATION LIBRARY,PUBLIC
+195,Park lights not working at Thirumalai Samy Street,44,Thirumalai Samy Street,Parks,2026-01-15,Resolved,CORPORATION PARK,PARK
+196,Water supply missing at public facility on Ramasamy Nagar,44,Ramasamy Nagar,Sanitation,2026-01-16,In Progress,CORPORATION TOILET,PUBLIC
+197,Unsafe surroundings near school at Jayanthi Nagar,44,Jayanthi Nagar,Roads,2026-01-17,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+198,Garbage dump near office at Vellappan Street,44,Vellappan Street,Maintenance,2026-01-18,In Progress,CORPORATION WARD OFFICE,OFFICE
+199,Garbage dump near office at Jayanthi Nagar,44,Jayanthi Nagar,Maintenance,2026-01-19,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+200,Garbage overflow near commercial area at Mettupalayam Road,44,Mettupalayam Road,Sanitation,2026-01-20,In Progress,TAMILNADU CIVIL SUPPLY CORPORATION,COMMERCIAL
+201,Illegal dumping on vacant land at Rathinam Nagar,44,Rathinam Nagar,Sanitation,2026-01-21,Open,CORPORATION LAND,VACANT
+202,Mosquito breeding on vacant land at Thirumalai Samy Street,44,Thirumalai Samy Street,Sanitation,2026-01-22,In Progress,CORPORATION PARK,PARK
+203,Park lights not working at Ranga Layout,44,Ranga Layout,Parks,2026-01-23,Resolved,CORPORATION PARK,PARK
+204,Mosquito breeding on vacant land at Puthuthottam Street,44,Puthuthottam Street,Sanitation,2026-01-24,Resolved,CORPORATION LAND,VACANT
+205,Unsafe surroundings near school at Swamy Street,45,Swamy Street,Roads,2026-01-25,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+206,Garbage dump near office at S P Kannusamy Street,45,S P Kannusamy Street,Maintenance,2026-01-26,Resolved,COUNCILOR OFFICE,OFFICE
+207,Garbage dump near office at S P Kannusamy Street,45,S P Kannusamy Street,Maintenance,2026-01-27,Resolved,COUNCILOR OFFICE,OFFICE
+208,Public toilet not cleaned at S P Kannusamy Street,45,S P Kannusamy Street,Sanitation,2026-01-28,Open,COUNCILOR OFFICE,OFFICE
+209,Traffic congestion near commercial area at Narayanasamy Gounder Street,45,Narayanasamy Gounder Street,Sanitation,2026-01-29,Open,CORPORATION BUILDING,COMMERCIAL
+210,Garbage dump near office at S P Kannusamy Street,45,S P Kannusamy Street,Maintenance,2026-01-30,In Progress,COUNCILOR OFFICE,OFFICE
+211,Cleanliness issue reported at Sanganoor Main Road,45,Sanganoor Main Road,Maintenance,2026-01-31,Resolved,CORPORATION QUARTERS,RESIDENTIAL
+212,Traffic congestion near commercial area at Narayanasamy Gounder Street,45,Narayanasamy Gounder Street,Sanitation,2026-02-01,In Progress,CORPORATION BUILDING,COMMERCIAL
+213,Civic maintenance issue reported at Balusamy Nagar,45,Balusamy Nagar,Maintenance,2026-02-02,In Progress,M G R SATHUNAVU KOODAM,OTHERS
+214,Cleanliness issue reported at Narayanasamy Layout,45,Narayanasamy Layout,Maintenance,2026-02-03,Resolved,CORPORATION MOTOR ROOM,OTHERS
+215,Cleanliness issue reported at Narayanasamy Layout,45,Narayanasamy Layout,Maintenance,2026-02-04,Resolved,CORPORATION MOTOR ROOM,OTHERS
+216,Civic maintenance issue reported at Thangam Nagar,45,Thangam Nagar,Maintenance,2026-02-05,Open,M G R SATHUNAVU KOODAM,OTHERS
+217,Water leakage near office at Mamarathottam Street,46,Mamarathottam Street,Maintenance,2026-02-06,Resolved,VILLAGE ADMINSTRATIVE OFFICE,OFFICE
+218,Traffic congestion near commercial area at Ganesh Layout Main Road,46,Ganesh Layout Main Road,Sanitation,2026-02-07,Open,CORPORATION BUILDING,COMMERCIAL
+219,Civic maintenance issue reported at Jayaprakash Nagar Main Road,46,Jayaprakash Nagar Main Road,Maintenance,2026-02-08,In Progress,BURIAL GROUND,BURIAL GROUND
+220,Broken road near school at Ganesh Layout Main Road,46,Ganesh Layout Main Road,Roads,2026-02-09,Open,CORPORATION BUILDING,COMMERCIAL
+221,Broken road near school at Gopal Swamy Kovil Street,46,Gopal Swamy Kovil Street,Roads,2026-02-10,In Progress,CORPORATION HIGHER SECONDARY SCHOOL,EDUCATIONAL
+222,Broken road near school at Siddha Thottam Street,46,Siddha Thottam Street,Roads,2026-02-11,In Progress,CORPORATION BUILDING,EDUCATIONAL
+223,Water stagnation near hospital at Sanganoor Road,46,Sanganoor Road,Health,2026-02-12,Resolved,CHILD HOSPITAL,HOSPITAL
+224,Garbage accumulation inside park at Maruthaiya Nagar,47,Maruthaiya Nagar,Parks,2026-02-13,In Progress,CORPORATION CHILDRENS PARK,PARK
+225,Illegal dumping on vacant land at Kattabomman Street,47,Kattabomman Street,Sanitation,2026-02-14,In Progress,CORPORATION VACANT LAND,VACANT
+226,Park lights not working at Kumaran Nagar,47,Kumaran Nagar,Parks,2026-02-15,Resolved,CORPORATION CHILDRENS PARK,PARK
+227,Public toilet not cleaned at Ganapathy Pudur Street 3,47,Ganapathy Pudur Street 3,Sanitation,2026-02-16,Open,CORPORATION PUBLIC TOILET,PUBLIC
+228,Public facility locked or unusable at V O C Nagar,48,V O C Nagar,Sanitation,2026-02-17,Open,CORPORATION TOILET,PUBLIC
+229,Public facility locked or unusable at Balasundaram Street,48,Balasundaram Street,Sanitation,2026-02-18,Resolved,LIBRARY,PUBLIC
+230,Water supply missing at public facility on Viswanatha Puram Main Road,48,Viswanatha Puram Main Road,Sanitation,2026-02-19,Open,LIBRARY,PUBLIC
+231,Cleanliness issue reported at Sundaram Street,48,Sundaram Street,Maintenance,2026-02-20,Resolved,CORPORATION WATER PUMPING BUILDING,OTHERS
+232,Civic maintenance issue reported at Lakshmipuram Main Road Extension,48,Lakshmipuram Main Road Extension,Maintenance,2026-02-21,Open,BURIAL GROUND,BURIAL GROUND
+233,Water supply missing at public facility on P M Samy Colony,48,P M Samy Colony,Sanitation,2026-02-22,Open,PUBLIC TOILET,PUBLIC
+234,Garbage dump near office at Sampath Street,49,Sampath Street,Maintenance,2026-02-23,Resolved,CORPORATION COLLECTION CENTER,OFFICE
+235,Park maintenance neglected at Maruthakutti Street,49,Maruthakutti Street,Parks,2026-02-24,Open,CORPORATION PARK,PARK
+236,Park maintenance neglected at Maruthakutti Street,49,Maruthakutti Street,Parks,2026-02-25,Open,CORPORATION PARK,PARK
+237,Garbage dump near office at Palaniammal Street,49,Palaniammal Street,Maintenance,2026-02-26,Resolved,CORPORATION WARD OFFICE,OFFICE
+238,Unsafe surroundings near school at Sampath Street,49,Sampath Street,Roads,2026-02-27,In Progress,CORPORATION COLLECTION CENTER,OFFICE
+239,Unsafe surroundings near school at Sampath Street Then Vadal Cross 1,49,Sampath Street Then Vadal Cross 1,Roads,2026-02-28,Resolved,PLAY SCHOOL,EDUCATIONAL
+240,Water stagnation near hospital at Sampath Street,49,Sampath Street,Health,2026-03-01,In Progress,CORPORATION COLLECTION CENTER,OFFICE
+241,Broken road near school at Sampath Street,49,Sampath Street,Roads,2026-03-02,Resolved,CORPORATION COLLECTION CENTER,OFFICE
+242,Unsafe surroundings near school at Ganapathy Nanjappan Street,49,Ganapathy Nanjappan Street,Roads,2026-03-03,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+243,Water supply missing at public facility on Anna Puthu Street,50,Anna Puthu Street,Sanitation,2026-03-04,Resolved,PUBLIC TOILET,PUBLIC
+244,Public toilet not cleaned at Anna Nagar,50,Anna Nagar,Sanitation,2026-03-05,In Progress,CBE CORPORATION TOILET,PUBLIC
+245,Civic maintenance issue reported at Tatabad Street 4,50,Tatabad Street 4,Maintenance,2026-03-06,Open,CORPORATION QUARTERS,RESIDENTIAL
+246,Traffic congestion near commercial area at Tatabad Street 3,50,Tatabad Street 3,Sanitation,2026-03-07,Open,CORPORATION BUILDING,COMMERCIAL
+247,Park lights not working at Raju Naidu Road,50,Raju Naidu Road,Parks,2026-03-08,Resolved,CORPORATION PARK,PARK
+248,Mosquito breeding on vacant land at Raju Naidu Road,50,Raju Naidu Road,Sanitation,2026-03-09,Resolved,CORPORATION PARK,PARK
+249,Water leakage near office at Tatabad Street 4,50,Tatabad Street 4,Maintenance,2026-03-10,Open,CORPORATION QUARTERS,RESIDENTIAL
+250,Unsafe surroundings near school at Dr.Alagappa Road,50,Dr.Alagappa Road,Roads,2026-03-11,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+251,Garbage overflow near commercial area at Raju Naidu Road,50,Raju Naidu Road,Sanitation,2026-03-12,Resolved,CORPORATION PARK,PARK
+252,Water leakage near office at Ponnay Street,51,Ponnay Street,Maintenance,2026-03-13,Open,COIMBATORE CORPORATION COMMISSIONER OFFICE,OFFICE
+253,Traffic congestion near commercial area at Gandhipuram 8Th Street,51,Gandhipuram 8Th Street,Sanitation,2026-03-14,Open,COIMBATORE DIST.GOVT.CORP.H.P SANGAM,COMMERCIAL
+254,Public toilet not cleaned at Lajapathi Rai Street,51,Lajapathi Rai Street,Sanitation,2026-03-15,Open,CORPORATION TOILET,PUBLIC
+255,Garbage overflow near commercial area at Kalingarayan Street,51,Kalingarayan Street,Sanitation,2026-03-16,In Progress,CORPORATION MARKET,COMMERCIAL
+256,Civic maintenance issue reported at Kalingarayan Street,51,Kalingarayan Street,Maintenance,2026-03-17,Resolved,CORPORATION MARKET,COMMERCIAL
+257,Civic maintenance issue reported at Patel Road,51,Patel Road,Maintenance,2026-03-18,Resolved,CORPORATION SHOPPING COMPLEX,SHOPPING COMPLEX
+258,Park lights not working at Swarnambika Layout,51,Swarnambika Layout,Parks,2026-03-19,Resolved,SEMMOZHI POONGA,PARK
+259,Water supply missing at public facility on Sn Das Layout 3,51,Sn Das Layout 3,Sanitation,2026-03-20,Open,CORPORATION RATION SHOP,PUBLIC
+260,Civic maintenance issue reported at Gandhipuram 7Th Street Extension,51,Gandhipuram 7Th Street Extension,Maintenance,2026-03-21,In Progress,CORPORATION BUILDING,OTHERS
+261,Water leakage near office at Dr Alagappa Chettiyar Road,51,Dr Alagappa Chettiyar Road,Maintenance,2026-03-22,In Progress,CORPORATION OFFICE,OFFICE
+262,Water leakage near office at Radhakrishnan Road,51,Radhakrishnan Road,Maintenance,2026-03-23,In Progress,CORPORATION ENGINEERING OFFICE,OFFICE
+263,Broken road near school at Gandhipuram Extension Second Street,51,Gandhipuram Extension Second Street,Roads,2026-03-24,In Progress,BABY SCHOOL,EDUCATIONAL
+264,Garbage dump near office at Gandhipuram Extension Second Street,51,Gandhipuram Extension Second Street,Maintenance,2026-03-25,In Progress,BABY SCHOOL,EDUCATIONAL
+265,Drain overflow near school at Bharathiyar Road,52,Bharathiyar Road,Roads,2026-03-26,Resolved,GOVT POLYTECHNIC COLLEGE FOR WOMEN,EDUCATIONAL
+266,Broken road near school at Ambika Layout,52,Ambika Layout,Roads,2026-03-27,Resolved,SIDHAPUDHUR GIRLS HIGH SCHOOL,EDUCATIONAL
+267,Civic maintenance issue reported at Sastri Nagar,52,Sastri Nagar,Maintenance,2026-03-28,In Progress,BURIAL GROUND,BURIAL GROUND
+268,Broken road near school at Gandhipuram 2Nd Street,52,Gandhipuram 2Nd Street,Roads,2026-03-29,In Progress,CORPORATION BABY SCHOOL,EDUCATIONAL
+269,Drain overflow near school at Elango Nagar Street-2,52,Elango Nagar Street-2,Roads,2026-03-30,Open,CORPORATION BABY SCHOOL,EDUCATIONAL
+270,Civic maintenance issue reported at Ambika Layout,52,Ambika Layout,Maintenance,2026-03-31,Resolved,SIDHAPUDHUR GIRLS HIGH SCHOOL,EDUCATIONAL
+271,Cleanliness issue reported at V.K.K. Menon Road,52,V.K.K. Menon Road,Maintenance,2026-01-01,In Progress,CBE HOUSING BOARD,RESIDENTIAL
+272,Broken road near school at V.K.K. Menon Road,52,V.K.K. Menon Road,Roads,2026-01-02,Open,CBE HOUSING BOARD,RESIDENTIAL
+273,Unsafe surroundings near school at Ambika Layout,52,Ambika Layout,Roads,2026-01-03,In Progress,SIDHAPUDHUR GIRLS HIGH SCHOOL,EDUCATIONAL
+274,Garbage accumulation inside park at Hari Puram,53,Hari Puram,Parks,2026-01-04,Resolved,CORPORATION CHILDRENS PARK,PARK
+275,Garbage dump near office at V.K.K Menon Road,53,V.K.K Menon Road,Maintenance,2026-01-05,Resolved,53 WARD OFFICE,OFFICE
+276,Public toilet not cleaned at Dhanalakshmi Nagar Huts,53,Dhanalakshmi Nagar Huts,Sanitation,2026-01-06,Open,CORPORATION TOILET,PUBLIC
+277,Civic maintenance issue reported at Dhanalakshmi Nagar,53,Dhanalakshmi Nagar,Maintenance,2026-01-07,Resolved,COIMBATORE CORPORATION CREMATORIUM,CREMATORIUM
+278,Broken road near school at Vivekananda Road,54,Vivekananda Road,Roads,2026-01-08,In Progress,RANGANATHA PURAM HIGHER SECONDARY SCHOOL,EDUCATIONAL
+279,Unsafe surroundings near school at Vivekananda Road,54,Vivekananda Road,Roads,2026-01-09,Open,RANGANATHA PURAM HIGHER SECONDARY SCHOOL,EDUCATIONAL
+280,Civic maintenance issue reported at Vivekananda Road,54,Vivekananda Road,Maintenance,2026-01-10,Open,RANGANATHA PURAM HIGHER SECONDARY SCHOOL,EDUCATIONAL
+281,Drain overflow near school at Sasthiri Road,54,Sasthiri Road,Roads,2026-01-11,Open,CORPORATION SCHOOL,EDUCATIONAL
+282,Cleanliness issue reported at G R D Road,55,G R D Road,Maintenance,2026-01-12,Open,GOVERNMENT BUILIDING HOUSING UNIT,RESIDENTIAL
+283,Public facility locked or unusable at Venugopal Lay Out,55,Venugopal Lay Out,Sanitation,2026-01-13,Open,COIMBATORE CORPORATION PUBLIC TOILET,PUBLIC
+284,Garbage dump near office at Bharathiyar Road,55,Bharathiyar Road,Maintenance,2026-01-14,Resolved,CORPORATION OFFICE,OFFICE
+285,Public facility locked or unusable at Beema Narayana Thotta Salaigal,55,Beema Narayana Thotta Salaigal,Sanitation,2026-01-15,Open,CORPORATION PUBLIC TOILET,PUBLIC
+286,Garbage dump near office at Beema Narayana Thotta Salaigal,55,Beema Narayana Thotta Salaigal,Maintenance,2026-01-16,In Progress,CORPORATION PUBLIC TOILET,PUBLIC
+287,Civic maintenance issue reported at Beema Narayana Thotta Salaigal,55,Beema Narayana Thotta Salaigal,Maintenance,2026-01-17,In Progress,CORPORATION PUBLIC TOILET,PUBLIC
+288,Waste disposal issue near hospital at Jayasimmapuram,55,Jayasimmapuram,Health,2026-01-18,In Progress,COIMBATORE CORPORATION HOSPITAL,HOSPITAL
+289,Water supply missing at public facility on Palaiyur,55,Palaiyur,Sanitation,2026-01-19,Resolved,PUBLIC TOILET,PUBLIC
+290,Broken road near school at Bharathiyar Road,55,Bharathiyar Road,Roads,2026-01-20,In Progress,CORPORATION OFFICE,OFFICE
+291,Garbage dump near office at Kattur Road,55,Kattur Road,Maintenance,2026-01-21,In Progress,CORPORATION OFFICE,OFFICE
+292,Waste disposal issue near hospital at Kattur Road,55,Kattur Road,Health,2026-01-22,Open,CORPORATION OFFICE,OFFICE
+293,Water leakage near office at Rangammal Street,55,Rangammal Street,Maintenance,2026-01-23,In Progress,CORPORATION OFFICE,OFFICE
+294,Garbage dump near office at Balasundaram Road,55,Balasundaram Road,Maintenance,2026-01-24,In Progress,CBE CORPORATION NORTH ZONE OFFICE,OFFICE
+295,Drain overflow near school at Pudur Mariamman Kovil Street,56,Pudur Mariamman Kovil Street,Roads,2026-01-25,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+296,Park lights not working at Hudco Colony,56,Hudco Colony,Parks,2026-01-26,In Progress,CORPORATION PARK,PARK
+297,Broken road near school at Jeganathan Colony Housing Unit,56,Jeganathan Colony Housing Unit,Roads,2026-01-27,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+298,Drain overflow near school at Annamar Kovil Street,56,Annamar Kovil Street,Roads,2026-01-28,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+299,Garbage dump near office at Karunanithi Nagar,56,Karunanithi Nagar,Maintenance,2026-01-29,Open,CORPORATION OFFICE,OFFICE
+300,Park lights not working at Thirumagal Nagar 11Th Cross Street,56,Thirumagal Nagar 11Th Cross Street,Parks,2026-01-30,In Progress,CORPORATION PARK,PARK
+301,Water supply missing at public facility on Pudur Mariamman Kovil Street,56,Pudur Mariamman Kovil Street,Sanitation,2026-01-31,Open,CORPORATION SCHOOL,EDUCATIONAL
+302,Garbage accumulation inside park at Hudco Colony,56,Hudco Colony,Parks,2026-02-01,Open,CORPORATION PARK,PARK
+303,Water supply missing at public facility on Uppilipalayam Main Road,57,Uppilipalayam Main Road,Sanitation,2026-02-02,Open,CORPORATION TOILET,PUBLIC
+304,Civic maintenance issue reported at Masakali Palayam Road,57,Masakali Palayam Road,Maintenance,2026-02-03,In Progress,CORPORATION SAMUTHAYA KUDAM,COMMUNITY HALL
+305,Water supply missing at public facility on Gandhi Nagar Street-8,57,Gandhi Nagar Street-8,Sanitation,2026-02-04,In Progress,CORPORATION ANGANVADI CENTRE,PUBLIC
+306,Public toilet not cleaned at Gandhi Nagar Street-12,57,Gandhi Nagar Street-12,Sanitation,2026-02-05,Open,CORPORATION TOILET,PUBLIC
+307,Water supply missing at public facility on Gandhi Nagar Street-17,57,Gandhi Nagar Street-17,Sanitation,2026-02-06,In Progress,CORPORATION TOILET,PUBLIC
+308,Public toilet not cleaned at Jeeva Street,57,Jeeva Street,Sanitation,2026-02-07,Open,CORPORATION TOILET,PUBLIC
+309,Broken road near school at Uppilipalayam Main Road,57,Uppilipalayam Main Road,Roads,2026-02-08,Resolved,CORPORATION TOILET,PUBLIC
+310,Unsafe surroundings near school at Subbaiya Street,57,Subbaiya Street,Roads,2026-02-09,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+311,Public facility locked or unusable at Metha Layout,58,Metha Layout,Sanitation,2026-02-10,Resolved,PUBLIC TOILET,PUBLIC
+312,Public facility locked or unusable at Thachan Thottam Street,58,Thachan Thottam Street,Sanitation,2026-02-11,In Progress,EB TOWER,PUBLIC
+313,Civic maintenance issue reported at Thachan Thottam Street,58,Thachan Thottam Street,Maintenance,2026-02-12,Open,EB TOWER,PUBLIC
+314,Cleanliness issue reported at Bangaru Layout,58,Bangaru Layout,Maintenance,2026-02-13,Resolved,ELECTRICAL CREMATORIUM,CREMATORIUM
+315,Public facility locked or unusable at Chinna Thottam Street,58,Chinna Thottam Street,Sanitation,2026-02-14,In Progress,PUBLIC TOILET,PUBLIC
+316,Water supply missing at public facility on Thachan Thottam Street,58,Thachan Thottam Street,Sanitation,2026-02-15,Open,EB TOWER,PUBLIC
+317,Park maintenance neglected at Thachan Thottam Street,58,Thachan Thottam Street,Parks,2026-02-16,In Progress,EB TOWER,PUBLIC
+318,Water supply missing at public facility on Bharath Nagar,58,Bharath Nagar,Sanitation,2026-02-17,In Progress,PUBLIC TOILET,PUBLIC
+319,Public toilet not cleaned at K J Garden,58,K J Garden,Sanitation,2026-02-18,In Progress,PUBLIC TOILET,PUBLIC
+320,Civic maintenance issue reported at Vinayagar Nagar,58,Vinayagar Nagar,Maintenance,2026-02-19,In Progress,COMMUNITY HALL,COMMUNITY HALL
+321,Water supply missing at public facility on Periya Street,58,Periya Street,Sanitation,2026-02-20,In Progress,LIBRARY,PUBLIC
+322,Public toilet not cleaned at Irugoor Ittery,59,Irugoor Ittery,Sanitation,2026-02-21,Resolved,CORPORATION TOILET,PUBLIC
+323,Water supply missing at public facility on Dhanapal Layout,59,Dhanapal Layout,Sanitation,2026-02-22,Resolved,CORPORATION TOILET,PUBLIC
+324,Water leakage near office at Dr.Jagananthan Nagar,59,Dr.Jagananthan Nagar,Maintenance,2026-02-23,Resolved,CORPORATION OFFICE,OFFICE
+325,Public facility locked or unusable at Gopal Nagar,59,Gopal Nagar,Sanitation,2026-02-24,In Progress,CORPORATION TOILET,PUBLIC
+326,Garbage accumulation inside park at R.K.K.Nagar,59,R.K.K.Nagar,Parks,2026-02-25,Resolved,ULAGA TAMIL SEMMOZHI POONGA,PARK
+327,Public facility locked or unusable at Thiruvalluvar Nagar,59,Thiruvalluvar Nagar,Sanitation,2026-02-26,Open,CORPORATION TOILET,PUBLIC
+328,Public toilet not cleaned at Bharathi Nagar,59,Bharathi Nagar,Sanitation,2026-02-27,Resolved,PUBLIC TOILET,PUBLIC
+329,Drain overflow near school at V O C Nagar (S I H S Colony),59,V O C Nagar (S I H S Colony),Roads,2026-02-28,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+330,Garbage accumulation inside park at Annai Indira Nagar,60,Annai Indira Nagar,Parks,2026-03-01,Open,SEMMOZHI POONGA,PARK
+331,Civic maintenance issue reported at Irugoor Ittery,60,Irugoor Ittery,Maintenance,2026-03-02,Open,CORPORATION BURIAL GROUND,BURIAL GROUND
+332,Water supply missing at public facility on Vinayakar Kovil Street,60,Vinayakar Kovil Street,Sanitation,2026-03-03,In Progress,CORPORATION LIBRARY,PUBLIC
+333,Public facility locked or unusable at Narayanasamy Layout,60,Narayanasamy Layout,Sanitation,2026-03-04,Open,CORPORATION PUBLIC TOILET,PUBLIC
+334,Public toilet not cleaned at S M S Layout,60,S M S Layout,Sanitation,2026-03-05,In Progress,CORPORATION PUBLIC TOILET,PUBLIC
+335,Drain overflow near school at Sungam Road,60,Sungam Road,Roads,2026-03-06,In Progress,CORPORATION ELEMENTARY SCHOOL,EDUCATIONAL
+336,Public toilet not cleaned at Thiruvalluvar Nagar,60,Thiruvalluvar Nagar,Sanitation,2026-03-07,Open,CORPORATION PUBLIC TOILET,PUBLIC
+337,Park lights not working at Tagore Nagar Extension,60,Tagore Nagar Extension,Parks,2026-03-08,Resolved,CORPORATION PARK,PARK
+338,Public facility locked or unusable at Bannari Amman Nagar,61,Bannari Amman Nagar,Sanitation,2026-03-09,Resolved,CORPORATION TOILET,PUBLIC
+339,Broken road near school at Nesavalar Street,61,Nesavalar Street,Roads,2026-03-10,Open,CORPORATION SCHOOL,EDUCATIONAL
+340,Public facility locked or unusable at Kamaraj Nagar,61,Kamaraj Nagar,Sanitation,2026-03-11,Resolved,CORPORATION TOILET,PUBLIC
+341,Traffic congestion near commercial area at Noyyal Nagar,61,Noyyal Nagar,Sanitation,2026-03-12,Resolved,CORPORATION BUILDING,COMMERCIAL
+342,Public facility locked or unusable at Thiruvalluvar Nagar,61,Thiruvalluvar Nagar,Sanitation,2026-03-13,Open,CORPORATION TOILET,PUBLIC
+343,Water supply missing at public facility on Nesavalar Street,61,Nesavalar Street,Sanitation,2026-03-14,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+344,Cleanliness issue reported at Kamban Nagar,61,Kamban Nagar,Maintenance,2026-03-15,Open,CORPORATION BOYS HOSTEL,OTHERS
+345,Civic maintenance issue reported at Noyyal Nagar,61,Noyyal Nagar,Maintenance,2026-03-16,Resolved,CORPORATION BUILDING,COMMERCIAL
+346,Cleanliness issue reported at M G R Nagar,61,M G R Nagar,Maintenance,2026-03-17,Open,CORPORATION BOYS HOSTEL,OTHERS
+347,Cleanliness issue reported at M G R Nagar,61,M G R Nagar,Maintenance,2026-03-18,Open,CORPORATION BOYS HOSTEL,OTHERS
+348,Garbage overflow near commercial area at Asthanthara Street,61,Asthanthara Street,Sanitation,2026-03-19,In Progress,CORPORATION BUILDING,COMMERCIAL
+349,Cleanliness issue reported at Siva Sri Garden,61,Siva Sri Garden,Maintenance,2026-03-20,Resolved,SINGANALLUR ANNA PLAY GROUND,PLAY GROUND
+350,Civic maintenance issue reported at Trichy Road,61,Trichy Road,Maintenance,2026-03-21,Open,SINGANALLUR CORPORATION BURIAL GROUND,BURIAL GROUND
+351,Broken road near school at Asthanthara Street,61,Asthanthara Street,Roads,2026-03-22,Resolved,CORPORATION BUILDING,COMMERCIAL
+352,Park maintenance neglected at Krishna Gardens,62,Krishna Gardens,Parks,2026-03-23,Open,GANDHI PARK,PARK
+353,Drain overflow near school at Iyar Layout,62,Iyar Layout,Roads,2026-03-24,In Progress,CHILD PLAY SCHOOL,EDUCATIONAL
+354,Drain overflow near school at Iyar Layout Fourth Street,62,Iyar Layout Fourth Street,Roads,2026-03-25,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+355,Water supply missing at public facility on Vasantha Mill Road,62,Vasantha Mill Road,Sanitation,2026-03-26,Resolved,CORPORATION TOILET,PUBLIC
+356,Cleanliness issue reported at North Street,62,North Street,Maintenance,2026-03-27,In Progress,COIMBATORE CORPORATION SOCIETY,OTHERS
+357,Mosquito breeding on vacant land at Balasundaram Layout,62,Balasundaram Layout,Sanitation,2026-03-28,In Progress,CORPORATION LAND,VACANT
+358,Drain overflow near school at Boyar Street,63,Boyar Street,Roads,2026-03-29,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+359,Drain overflow near school at Pillaiyar Kovil Street,63,Pillaiyar Kovil Street,Roads,2026-03-30,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+360,Broken road near school at Trichy Road,63,Trichy Road,Roads,2026-03-31,Open,CORPORATION PLAY SCHOOL,EDUCATIONAL
+361,Public toilet not cleaned at Vellalore Road,63,Vellalore Road,Sanitation,2026-01-01,In Progress,CORPORATION TOILET,PUBLIC
+362,Unsafe surroundings near school at Vellalore Road,63,Vellalore Road,Roads,2026-01-02,Open,CORPORATION TOILET,PUBLIC
+363,Public toilet not cleaned at Boyar Street,63,Boyar Street,Sanitation,2026-01-03,Open,CORPORATION SCHOOL,EDUCATIONAL
+364,Water leakage near office at Boyar Street,63,Boyar Street,Maintenance,2026-01-04,Open,CORPORATION SCHOOL,EDUCATIONAL
+365,Cleanliness issue reported at Boyar Street,63,Boyar Street,Maintenance,2026-01-05,Open,CORPORATION SCHOOL,EDUCATIONAL
+366,Civic maintenance issue reported at Boyar Street,63,Boyar Street,Maintenance,2026-01-06,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+367,Water leakage near office at Boyar Street,63,Boyar Street,Maintenance,2026-01-07,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+368,Water stagnation near hospital at Boyar Street,63,Boyar Street,Health,2026-01-08,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+369,Water leakage near office at Boyar Street,63,Boyar Street,Maintenance,2026-01-09,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+370,Waste disposal issue near hospital at Uppilypalayam Street,63,Uppilypalayam Street,Health,2026-01-10,Resolved,CORPORATION VETERINARY HOSPITAL,HOSPITAL
+371,Public toilet not cleaned at Asantha Nayakar Street,63,Asantha Nayakar Street,Sanitation,2026-01-11,Open,CORPORATION TOILET,PUBLIC
+372,Unsafe surroundings near school at Kallimadai Road,63,Kallimadai Road,Roads,2026-01-12,In Progress,CORPORATION ELEMENTARY SCHOOL,EDUCATIONAL
+373,Public toilet not cleaned at Anaiyan Kadu Road,63,Anaiyan Kadu Road,Sanitation,2026-01-13,In Progress,CORPORATION TOILET,PUBLIC
+374,Water supply missing at public facility on Anaiyan Kadu Road,63,Anaiyan Kadu Road,Sanitation,2026-01-14,Resolved,CORPORATION TOILET,PUBLIC
+375,Civic maintenance issue reported at Anaiyan Kadu Road,63,Anaiyan Kadu Road,Maintenance,2026-01-15,Open,CORPORATION TOILET,PUBLIC
+376,Civic maintenance issue reported at Trichy Road,63,Trichy Road,Maintenance,2026-01-16,Resolved,CORPORATION PLAY SCHOOL,EDUCATIONAL
+377,Water leakage near office at Kamala Mill Kuttai,64,Kamala Mill Kuttai,Maintenance,2026-01-17,Open,CORPORATION OFFICE,OFFICE
+378,Cleanliness issue reported at Kamala Mill Kuttai,64,Kamala Mill Kuttai,Maintenance,2026-01-18,Open,CORPORATION OFFICE,OFFICE
+379,Water leakage near office at Uppilipalayam Main Road,64,Uppilipalayam Main Road,Maintenance,2026-01-19,In Progress,ASSISTANT ENGINEER OFFICE,OFFICE
+380,Civic maintenance issue reported at Tamil Nadu Housing Board,64,Tamil Nadu Housing Board,Maintenance,2026-01-20,In Progress,UZHAVAR SANDHAI,DAILY MARKET
+381,Public facility locked or unusable at Tamil Nadu Housing Board,64,Tamil Nadu Housing Board,Sanitation,2026-01-21,Open,UZHAVAR SANDHAI,DAILY MARKET
+382,Civic maintenance issue reported at Kakkan Nagar,64,Kakkan Nagar,Maintenance,2026-01-22,Open,CORPORATION BUILDING,ABANDONED
+383,Water supply missing at public facility on Kamala Mill Kuttai,64,Kamala Mill Kuttai,Sanitation,2026-01-23,In Progress,CORPORATION OFFICE,OFFICE
+384,Civic maintenance issue reported at Srinivasa Nagar,64,Srinivasa Nagar,Maintenance,2026-01-24,Open,CO-OPERATIVE SOCIETY,COMMUNITY HALL
+385,Garbage dump near office at Tamil Nadu Housing Board,64,Tamil Nadu Housing Board,Maintenance,2026-01-25,In Progress,UZHAVAR SANDHAI,DAILY MARKET
+386,Civic maintenance issue reported at Tamil Nadu Housing Board,64,Tamil Nadu Housing Board,Maintenance,2026-01-26,Open,UZHAVAR SANDHAI,DAILY MARKET
+387,Public facility locked or unusable at Mariyamman Kovil Street,65,Mariyamman Kovil Street,Sanitation,2026-01-27,Open,CORPORATION TOILET,PUBLIC
+388,Broken road near school at Udayampalayam Main Road,65,Udayampalayam Main Road,Roads,2026-01-28,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+389,Public toilet not cleaned at Anna Nagar,65,Anna Nagar,Sanitation,2026-01-29,Resolved,CORPORATION TOILET,PUBLIC
+390,Cleanliness issue reported at Udayampalayam Main Road,65,Udayampalayam Main Road,Maintenance,2026-01-30,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+391,Cleanliness issue reported at Udayampalayam Main Road,65,Udayampalayam Main Road,Maintenance,2026-01-31,Open,CORPORATION SCHOOL,EDUCATIONAL
+392,Civic maintenance issue reported at Kallarai Street,65,Kallarai Street,Maintenance,2026-02-01,Resolved,BURIAL GROUND,BURIAL GROUND
+393,Park lights not working at Annai Velankani Nagar,65,Annai Velankani Nagar,Parks,2026-02-02,Resolved,CORPORATION PARK,PARK
+394,Public toilet not cleaned at Indira Nagar,65,Indira Nagar,Sanitation,2026-02-03,Open,CORPORATION TOILET,PUBLIC
+395,Civic maintenance issue reported at Indra Nagar East Second Street,65,Indra Nagar East Second Street,Maintenance,2026-02-04,Open,SAMUDHAYA KOODAM,COMMUNITY HALL
+396,Drain overflow near school at Udayampalayam Main Road,65,Udayampalayam Main Road,Roads,2026-02-05,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+397,Water supply missing at public facility on Kallarai Street,65,Kallarai Street,Sanitation,2026-02-06,In Progress,BURIAL GROUND,BURIAL GROUND
+398,Park lights not working at Baladhandayutham Street,65,Baladhandayutham Street,Parks,2026-02-07,Open,CORPORATION PARK,PARK
+399,Traffic congestion near commercial area at Ashok Street,66,Ashok Street,Sanitation,2026-02-08,In Progress,CORPORATION BUILDING,COMMERCIAL
+400,Park lights not working at Rajiv Gandhi Nagar,66,Rajiv Gandhi Nagar,Parks,2026-02-09,Resolved,CORPORATION PARK,PARK
+401,Water supply missing at public facility on Rajiv Gandhi Nagar,66,Rajiv Gandhi Nagar,Sanitation,2026-02-10,In Progress,CORPORATION PARK,PARK
+402,Public toilet not cleaned at Rajiv Gandhi Nagar,66,Rajiv Gandhi Nagar,Sanitation,2026-02-11,In Progress,CORPORATION PARK,PARK
+403,Park lights not working at Ram Gardens,66,Ram Gardens,Parks,2026-02-12,In Progress,CORPORATION PARK,PARK
+404,Civic maintenance issue reported at Nethaji Lane,66,Nethaji Lane,Maintenance,2026-02-13,Open,UDAYAMPALAYAM BURIAL GROUND,BURIAL GROUND
+405,Civic maintenance issue reported at Rajiv Gandhi Nagar,66,Rajiv Gandhi Nagar,Maintenance,2026-02-14,Resolved,CORPORATION PARK,PARK
+406,Public facility locked or unusable at Ashok Street,66,Ashok Street,Sanitation,2026-02-15,Open,CORPORATION BUILDING,COMMERCIAL
+407,Cleanliness issue reported at Ashok Street,66,Ashok Street,Maintenance,2026-02-16,Open,CORPORATION BUILDING,COMMERCIAL
+408,Public toilet not cleaned at Nethaji Main Road,66,Nethaji Main Road,Sanitation,2026-02-17,In Progress,CORPORATION TOILET,PUBLIC
+409,Cleanliness issue reported at Krishnasamy Nagar,67,Krishnasamy Nagar,Maintenance,2026-02-18,Resolved,SAMUDHAYA KOODAM,COMMUNITY HALL
+410,Broken road near school at Poosari Mariyappan Street,67,Poosari Mariyappan Street,Roads,2026-02-19,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+411,Water leakage near office at Periyar Nagar,67,Periyar Nagar,Maintenance,2026-02-20,In Progress,CORPORATION OFFICE,OFFICE
+412,Cleanliness issue reported at Nagappan Street,67,Nagappan Street,Maintenance,2026-02-21,Open,CORPORTION MARRIGE HALL,MARRIAGE HALL
+413,Unsafe surroundings near school at Trichy Road,67,Trichy Road,Roads,2026-02-22,Open,CORPORATION SCHOOL,EDUCATIONAL
+414,Park maintenance neglected at T Nagar,67,T Nagar,Parks,2026-02-23,In Progress,CHILDRENS PARK,PARK
+415,Illegal dumping on vacant land at Nanjundapuram Road,68,Nanjundapuram Road,Sanitation,2026-02-24,Open,CCMC PROPERTY,VACANT
+416,Mosquito breeding on vacant land at Nanjundapuram Road,68,Nanjundapuram Road,Sanitation,2026-02-25,In Progress,CCMC PROPERTY,VACANT
+417,Garbage dump near office at Ramalinga Jyothi Nagar,68,Ramalinga Jyothi Nagar,Maintenance,2026-02-26,Open,CORPORATION BIRTH & DEATH REGISTER OFFICE,OFFICE
+418,Park lights not working at Kannika Parameshwari Layout,68,Kannika Parameshwari Layout,Parks,2026-02-27,Resolved,CORPORATION PARK,PARK
+419,Garbage accumulation inside park at Kannika Parameshwari Layout,68,Kannika Parameshwari Layout,Parks,2026-02-28,In Progress,CORPORATION PARK,PARK
+420,Illegal dumping on vacant land at Kannika Parameshwari Layout,68,Kannika Parameshwari Layout,Sanitation,2026-03-01,Resolved,CORPORATION PARK,PARK
+421,Civic maintenance issue reported at Ramalinga Jyothi Nagar,68,Ramalinga Jyothi Nagar,Maintenance,2026-03-02,In Progress,CORPORATION BIRTH & DEATH REGISTER OFFICE,OFFICE
+422,Civic maintenance issue reported at Ramalinga Jyothi Nagar,68,Ramalinga Jyothi Nagar,Maintenance,2026-03-03,Resolved,CORPORATION BIRTH & DEATH REGISTER OFFICE,OFFICE
+423,Garbage dump near office at Maniam Subramaniyar Street,68,Maniam Subramaniyar Street,Maintenance,2026-03-04,In Progress,VILLAGE ADMINSTRATIVE OFFICE,OFFICE
+424,Public toilet not cleaned at Subramaniam Road,68,Subramaniam Road,Sanitation,2026-03-05,Resolved,CORPORATION PUBLIC TOILET,PUBLIC
+425,Water leakage near office at Ramanathapuram Road,68,Ramanathapuram Road,Maintenance,2026-03-06,Open,PROPERTY WATER OFFICE,OFFICE
+426,Public facility locked or unusable at Perumal Kovil Street,68,Perumal Kovil Street,Sanitation,2026-03-07,In Progress,CORPORATION PUBLIC TOILET,PUBLIC
+427,Garbage dump near office at Ramanathapuram Road,68,Ramanathapuram Road,Maintenance,2026-03-08,Resolved,PROPERTY WATER OFFICE,OFFICE
+428,Drain overflow near school at Ramanathapuram Road,68,Ramanathapuram Road,Roads,2026-03-09,Resolved,PROPERTY WATER OFFICE,OFFICE
+429,Public facility locked or unusable at Eighty Feet Road,68,Eighty Feet Road,Sanitation,2026-03-10,In Progress,CORPORATION TOILET,PUBLIC
+430,Unsafe surroundings near school at Nanjundapuram Road,68,Nanjundapuram Road,Roads,2026-03-11,Open,CCMC PROPERTY,VACANT
+431,Traffic congestion near commercial area at Nanjundapuram Road,68,Nanjundapuram Road,Sanitation,2026-03-12,Resolved,CCMC PROPERTY,VACANT
+432,Water stagnation near hospital at Trichy Road,69,Trichy Road,Health,2026-03-13,In Progress,GOVERMANT HOSPITAL,HOSPITAL
+433,Garbage overflow near commercial area at Trichy Road,69,Trichy Road,Sanitation,2026-03-14,In Progress,GOVERMANT HOSPITAL,HOSPITAL
+434,Garbage overflow near commercial area at Trichy Road,69,Trichy Road,Sanitation,2026-03-15,Open,GOVERMANT HOSPITAL,HOSPITAL
+435,Traffic congestion near commercial area at Sowripalayam Road,69,Sowripalayam Road,Sanitation,2026-03-16,Open,CORPORATION BUILDING,COMMERCIAL
+436,Civic maintenance issue reported at Pankaja Mills Road,69,Pankaja Mills Road,Maintenance,2026-03-17,In Progress,CORPORATION COMMUNITY HALL,COMMUNITY HALL
+437,Broken road near school at Pankaja Mills Road,69,Pankaja Mills Road,Roads,2026-03-18,Resolved,CORPORATION COMMUNITY HALL,COMMUNITY HALL
+438,Civic maintenance issue reported at Pankaja Mills Road,69,Pankaja Mills Road,Maintenance,2026-03-19,Resolved,CORPORATION COMMUNITY HALL,COMMUNITY HALL
+439,Public toilet not cleaned at Sowripalayam Road,69,Sowripalayam Road,Sanitation,2026-03-20,Open,CORPORATION BUILDING,COMMERCIAL
+440,Unsafe surroundings near school at Trichy Road,69,Trichy Road,Roads,2026-03-21,Resolved,GOVERMANT HOSPITAL,HOSPITAL
+441,Cleanliness issue reported at Corporation Colony,70,Corporation Colony,Maintenance,2026-03-22,Open,CORPORATION RESIDENTIAL,RESIDENTIAL
+442,Cleanliness issue reported at Corporation Colony,70,Corporation Colony,Maintenance,2026-03-23,In Progress,CORPORATION RESIDENTIAL,RESIDENTIAL
+443,Drain overflow near school at Sowripalayam Road,70,Sowripalayam Road,Roads,2026-03-24,Open,CORPORATION ELEMENTARY SCHOOL,EDUCATIONAL
+444,Drain overflow near school at Puliyakulam Road,70,Puliyakulam Road,Roads,2026-03-25,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+445,Mosquito breeding on vacant land at Kamaraj Road,71,Kamaraj Road,Sanitation,2026-03-26,Open,CORPORATION PROPERTY,VACANT
+446,Mosquito breeding on vacant land at Kamaraj Road,71,Kamaraj Road,Sanitation,2026-03-27,Open,CORPORATION PROPERTY,VACANT
+447,Civic maintenance issue reported at Puliyakulam Road,71,Puliyakulam Road,Maintenance,2026-03-28,Resolved,BURIAL GROUND,BURIAL GROUND
+448,Cleanliness issue reported at Puliyakulam,71,Puliyakulam,Maintenance,2026-03-29,In Progress,BURIAL GROUND,BURIAL GROUND
+449,Cleanliness issue reported at Sourimuthu Street,71,Sourimuthu Street,Maintenance,2026-03-30,In Progress,CORPORATION KALYANA MANDAPAM,MARRIAGE HALL
+450,Cleanliness issue reported at Kamaraj Road,71,Kamaraj Road,Maintenance,2026-03-31,Open,CORPORATION PROPERTY,VACANT
+451,Garbage accumulation inside park at V.O.C.Park Road,72,V.O.C.Park Road,Parks,2026-01-01,Open,VOC PARK,PARK
+452,Traffic congestion near commercial area at Srikanth Extension,72,Srikanth Extension,Sanitation,2026-01-02,Resolved,SECRETARY DISTRICT SPORTS COUNCIL,COMMERCIAL
+453,Garbage accumulation inside park at Kaleshwara Mill Road,72,Kaleshwara Mill Road,Parks,2026-01-03,In Progress,CHILDRENS PARK,PARK
+454,Civic maintenance issue reported at Uma Nama Nagar 1,72,Uma Nama Nagar 1,Maintenance,2026-01-04,In Progress,COIMBATORE CORPORATION KALYANA MANDAPAM,MARRIAGE HALL
+455,Garbage accumulation inside park at L.I.C Road,72,L.I.C Road,Parks,2026-01-05,Resolved,VOC PARK,PARK
+456,Garbage accumulation inside park at L.I.C Road,72,L.I.C Road,Parks,2026-01-06,Resolved,VOC PARK,PARK
+457,Garbage accumulation inside park at Dr. Nanjappa Road,72,Dr. Nanjappa Road,Parks,2026-01-07,Resolved,BADMINTON ASSOCIATION CLUB,PARK
+458,Water leakage near office at Library Road,72,Library Road,Maintenance,2026-01-08,Open,SECRETARY OFFICE COIMBATORE,OFFICE
+459,Garbage overflow near commercial area at L.I.C Road,72,L.I.C Road,Sanitation,2026-01-09,Resolved,VOC PARK,PARK
+460,Broken road near school at Dr. Nanjappa Road,72,Dr. Nanjappa Road,Roads,2026-01-10,Open,BADMINTON ASSOCIATION CLUB,PARK
+461,Traffic congestion near commercial area at Police Quarters Road,72,Police Quarters Road,Sanitation,2026-01-11,Open,COIMBATORE DISTRICT ELECTRICAL TRADERS ASSOCIATION,COMMERCIAL
+462,Water supply missing at public facility on Library Road,72,Library Road,Sanitation,2026-01-12,Open,SECRETARY OFFICE COIMBATORE,OFFICE
+463,Garbage overflow near commercial area at Srikanth Extension,72,Srikanth Extension,Sanitation,2026-01-13,Open,SECRETARY DISTRICT SPORTS COUNCIL,COMMERCIAL
+464,Garbage accumulation inside park at V.O.C.Park Road,72,V.O.C.Park Road,Parks,2026-01-14,Open,VOC PARK,PARK
+465,Garbage overflow near commercial area at Somasundaram Mill Road,72,Somasundaram Mill Road,Sanitation,2026-01-15,In Progress,CBE DIST MILL LABOURS UNION,COMMERCIAL
+466,Garbage dump near office at Addis Road,72,Addis Road,Maintenance,2026-01-16,Open,THE COMMISSIONER OFFICE,OFFICE
+467,Traffic congestion near commercial area at Ranga Konar,72,Ranga Konar,Sanitation,2026-01-17,In Progress,DISTRICT MILL WORKER UNION,COMMERCIAL
+468,Civic maintenance issue reported at Srikanth Extension,72,Srikanth Extension,Maintenance,2026-01-18,Resolved,SECRETARY DISTRICT SPORTS COUNCIL,COMMERCIAL
+469,Waste disposal issue near hospital at Srikanth Extension,72,Srikanth Extension,Health,2026-01-19,Open,SECRETARY DISTRICT SPORTS COUNCIL,COMMERCIAL
+470,Water leakage near office at Chellappa Gounder Street,72,Chellappa Gounder Street,Maintenance,2026-01-20,In Progress,THE COMMISSIONER COIMBATORE,OFFICE
+471,Cleanliness issue reported at Chellappa Gounder Street,72,Chellappa Gounder Street,Maintenance,2026-01-21,Open,THE COMMISSIONER COIMBATORE,OFFICE
+472,Garbage overflow near commercial area at Ranga Konar,72,Ranga Konar,Sanitation,2026-01-22,Open,DISTRICT MILL WORKER UNION,COMMERCIAL
+473,Water supply missing at public facility on Highways Colony,73,Highways Colony,Sanitation,2026-01-23,In Progress,CORPORATION TOILET,PUBLIC
+474,Water leakage near office at Racecource Road,73,Racecource Road,Maintenance,2026-01-24,Resolved,BIRTH & DEATH CERTIFICATE OFFICE,OFFICE
+475,Water leakage near office at Avinashi Road,73,Avinashi Road,Maintenance,2026-01-25,Resolved,CORPORATION OFFICE,OFFICE
+476,Broken road near school at Sundaresa Iyyar Layout,73,Sundaresa Iyyar Layout,Roads,2026-01-26,Resolved,CORPORATION ELEMENTARY SCHOOL,EDUCATIONAL
+477,Garbage accumulation inside park at Trichy Road,73,Trichy Road,Parks,2026-01-27,Open,CORPORATION PARK,PARK
+478,Public toilet not cleaned at Eswaran Layout,73,Eswaran Layout,Sanitation,2026-01-28,Resolved,CORPORATION TOILET,PUBLIC
+479,Garbage dump near office at Travellers Bungalow Road,73,Travellers Bungalow Road,Maintenance,2026-01-29,In Progress,CORPORATION CENTRAL ZONE OFFICE,OFFICE
+480,Public toilet not cleaned at By Pass Road,74,By Pass Road,Sanitation,2026-01-30,Resolved,CORPORATION TOILET,PUBLIC
+481,Water leakage near office at Kamaraj Colony,74,Kamaraj Colony,Maintenance,2026-01-31,Resolved,DISTRICT LIBRARY OFFICE,OFFICE
+482,Park maintenance neglected at J K Garden,74,J K Garden,Parks,2026-02-01,Resolved,CORPORATION PARK,PARK
+483,Civic maintenance issue reported at West Pudur,75,West Pudur,Maintenance,2026-02-02,In Progress,BURIAL GROUND,BURIAL GROUND
+484,Unsafe surroundings near school at Saramedu,75,Saramedu,Roads,2026-02-03,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+485,Water supply missing at public facility on Padasalai Street,75,Padasalai Street,Sanitation,2026-02-04,Resolved,CORPORATION TOILET,PUBLIC
+486,Public toilet not cleaned at Devandra Street East,75,Devandra Street East,Sanitation,2026-02-05,Resolved,CORPORATION LIBRARY,PUBLIC
+487,Broken road near school at Padasalai Street,75,Padasalai Street,Roads,2026-02-06,Resolved,CORPORATION TOILET,PUBLIC
+488,Waste disposal issue near hospital at Perumal Kovil Street,75,Perumal Kovil Street,Health,2026-02-07,In Progress,CORPORATION VETERINARY HOSPITAL,HOSPITAL
+489,Public toilet not cleaned at Arumugam Santhu,75,Arumugam Santhu,Sanitation,2026-02-08,In Progress,CORPORATION TOILET,PUBLIC
+490,Civic maintenance issue reported at Kannimar Kovil Street,75,Kannimar Kovil Street,Maintenance,2026-02-09,Open,CREMATORIUM,CREMATORIUM
+491,Water supply missing at public facility on M.K.Street,76,M.K.Street,Sanitation,2026-02-10,Open,CORPORATION TOILET,PUBLIC
+492,Garbage accumulation inside park at Textool Colony,76,Textool Colony,Parks,2026-02-11,Resolved,CORPORATION CHILDRENS PARK,PARK
+493,Public facility locked or unusable at Vallalar Nagar,76,Vallalar Nagar,Sanitation,2026-02-12,In Progress,PUBLIC LIBRARY,PUBLIC
+494,Public facility locked or unusable at Ramamoorthy Road,77,Ramamoorthy Road,Sanitation,2026-02-13,In Progress,CORPORATION TOILET,PUBLIC
+495,Water supply missing at public facility on Karauppannan Street,77,Karauppannan Street,Sanitation,2026-02-14,Resolved,CORPORATION TOILET,PUBLIC
+496,Park maintenance neglected at Arul Garden,77,Arul Garden,Parks,2026-02-15,Resolved,CORPORATION PARK,PARK
+497,Public facility locked or unusable at Indhra Nagar 2Nd Street,77,Indhra Nagar 2Nd Street,Sanitation,2026-02-16,Open,SOCIETY AND MIDDAY MEALS DEPARTMENT,PUBLIC
+498,Public toilet not cleaned at Annai Indra Nagar,77,Annai Indra Nagar,Sanitation,2026-02-17,Open,CORPORATION TOILET,PUBLIC
+499,Unsafe surroundings near school at Ayyavupannadies Street,77,Ayyavupannadies Street,Roads,2026-02-18,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+500,Park lights not working at Shanmuga Nagar,77,Shanmuga Nagar,Parks,2026-02-19,In Progress,CORPORATION PARK,PARK
+501,Unsafe surroundings near school at North Housing Unit,78,North Housing Unit,Roads,2026-02-20,Open,PRIMARY SCHOOL,EDUCATIONAL
+502,Park lights not working at North Housing Unit,78,North Housing Unit,Parks,2026-02-21,Open,PRIMARY SCHOOL,EDUCATIONAL
+503,Civic maintenance issue reported at North Housing Unit,78,North Housing Unit,Maintenance,2026-02-22,Open,PRIMARY SCHOOL,EDUCATIONAL
+504,Water stagnation near hospital at Selvapuram Road,78,Selvapuram Road,Health,2026-02-23,Open,CORPORATION HOSPITAL,HOSPITAL
+505,Waste disposal issue near hospital at Selvapuram Road,78,Selvapuram Road,Health,2026-02-24,Open,CORPORATION HOSPITAL,HOSPITAL
+506,Broken road near school at Selvapuram Main Road,78,Selvapuram Main Road,Roads,2026-02-25,Open,CORPORATION SCHOOL,EDUCATIONAL
+507,Garbage dump near office at Selvapuram Main Road,78,Selvapuram Main Road,Maintenance,2026-02-26,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+508,Garbage dump near office at Selvapuram Main Road,78,Selvapuram Main Road,Maintenance,2026-02-27,Open,CORPORATION SCHOOL,EDUCATIONAL
+509,Civic maintenance issue reported at Selvapuram Road,78,Selvapuram Road,Maintenance,2026-02-28,In Progress,CORPORATION HOSPITAL,HOSPITAL
+510,Broken road near school at Selvapuram Main Road,78,Selvapuram Main Road,Roads,2026-03-01,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+511,Garbage overflow near commercial area at Selvapuram Road,78,Selvapuram Road,Sanitation,2026-03-02,Resolved,CORPORATION HOSPITAL,HOSPITAL
+512,Garbage dump near office at North Housing Unit,78,North Housing Unit,Maintenance,2026-03-03,In Progress,PRIMARY SCHOOL,EDUCATIONAL
+513,Cleanliness issue reported at North Housing Unit,78,North Housing Unit,Maintenance,2026-03-04,Resolved,PRIMARY SCHOOL,EDUCATIONAL
+514,Park lights not working at Chandrasekar Puram,78,Chandrasekar Puram,Parks,2026-03-05,Open,PARK,PARK
+515,Garbage dump near office at Ponnaiyarajapuram,79,Ponnaiyarajapuram,Maintenance,2026-03-06,Resolved,CORPORATION OFFICE,OFFICE
+516,Broken road near school at Aa Scheme Road,79,Aa Scheme Road,Roads,2026-03-07,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+517,Civic maintenance issue reported at Aa Scheme Road,79,Aa Scheme Road,Maintenance,2026-03-08,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+518,Drain overflow near school at Thiyagi Kumaran Street,80,Thiyagi Kumaran Street,Roads,2026-03-09,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+519,Unsafe surroundings near school at Thiyagi Kumaran Street,80,Thiyagi Kumaran Street,Roads,2026-03-10,Open,CORPORATION SCHOOL,EDUCATIONAL
+520,Illegal dumping on vacant land at Raja Street,80,Raja Street,Sanitation,2026-03-11,In Progress,COIMBATORE CORPORATION STAND,VACANT
+521,Drain overflow near school at Karuppannan Street,80,Karuppannan Street,Roads,2026-03-12,Resolved,PLAY SCHOOL,EDUCATIONAL
+522,Broken road near school at Veerasamy School Road,80,Veerasamy School Road,Roads,2026-03-13,Resolved,CORPORATION GIRLS HIGHER SECONDARY SCHOOL,EDUCATIONAL
+523,Garbage dump near office at Thomas Street(Subbaya Street),80,Thomas Street(Subbaya Street),Maintenance,2026-03-14,Open,CORPORATION WARD OFFICE,OFFICE
+524,Broken road near school at Rangai Street,80,Rangai Street,Roads,2026-03-15,Open,CORPORATION SCHOOL,EDUCATIONAL
+525,Civic maintenance issue reported at Big Bazar Street,81,Big Bazar Street,Maintenance,2026-03-16,In Progress,CORPORATION COMPLEX,SHOPPING COMPLEX
+526,Civic maintenance issue reported at Big Bazar Street,81,Big Bazar Street,Maintenance,2026-03-17,In Progress,CORPORATION COMPLEX,SHOPPING COMPLEX
+527,Water leakage near office at Big Bazar Street,81,Big Bazar Street,Maintenance,2026-03-18,Resolved,CORPORATION COMPLEX,SHOPPING COMPLEX
+528,Water leakage near office at Big Bazar Street,81,Big Bazar Street,Maintenance,2026-03-19,Resolved,CORPORATION COMPLEX,SHOPPING COMPLEX
+529,Cleanliness issue reported at Cmc Colony,81,Cmc Colony,Maintenance,2026-03-20,Resolved,CCMC QUARTERS,RESIDENTIAL
+530,Civic maintenance issue reported at Surian Street,81,Surian Street,Maintenance,2026-03-21,Resolved,CORPORATION MANDAPAM,MARRIAGE HALL
+531,Garbage dump near office at Big Bazar Street,81,Big Bazar Street,Maintenance,2026-03-22,In Progress,CORPORATION COMPLEX,SHOPPING COMPLEX
+532,Cleanliness issue reported at Cmc Colony,81,Cmc Colony,Maintenance,2026-03-23,Open,CCMC QUARTERS,RESIDENTIAL
+533,Civic maintenance issue reported at Thirumal Street,81,Thirumal Street,Maintenance,2026-03-24,Resolved,CORPORATION MARRIAGE HALL,MARRIAGE HALL
+534,Unsafe surroundings near school at Oppanakkara Street,81,Oppanakkara Street,Roads,2026-03-25,In Progress,COIMBATORE GIRLS HIGHER SECONDARY SCHOOL,EDUCATIONAL
+535,Unsafe surroundings near school at Haji Mohammed Street,82,Haji Mohammed Street,Roads,2026-03-26,Open,CORPORATION SCHOOL,EDUCATIONAL
+536,Unsafe surroundings near school at Vincent Road,82,Vincent Road,Roads,2026-03-27,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+537,Unsafe surroundings near school at L M Street,82,L M Street,Roads,2026-03-28,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+538,Garbage overflow near commercial area at Sungam By Pass Road,82,Sungam By Pass Road,Sanitation,2026-03-29,Resolved,CORPORATION BUILDING,COMMERCIAL
+539,Water supply missing at public facility on Subri Street,83,Subri Street,Sanitation,2026-03-30,In Progress,COIMBATORE CORPORATION LIBRARY,PUBLIC
+540,Garbage overflow near commercial area at T K Market,83,T K Market,Sanitation,2026-03-31,Open,CORPORATION VANIGA VYABARA THOLILLAR SANGAM,COMMERCIAL
+541,Drain overflow near school at Vaisyal Street,83,Vaisyal Street,Roads,2026-01-01,Resolved,CORPORATION SCHOOL,EDUCATIONAL
+542,Civic maintenance issue reported at T K Market,83,T K Market,Maintenance,2026-01-02,Open,CORPORATION VANIGA VYABARA THOLILLAR SANGAM,COMMERCIAL
+543,Unsafe surroundings near school at Vairam Street,83,Vairam Street,Roads,2026-01-03,Resolved,ANGANVAADI,EDUCATIONAL
+544,Drain overflow near school at Pavalam Street - Ii,83,Pavalam Street - Ii,Roads,2026-01-04,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+545,Traffic congestion near commercial area at Muthu Vinayagar Street,83,Muthu Vinayagar Street,Sanitation,2026-01-05,Open,MILK SOCIETY,COMMERCIAL
+546,Garbage overflow near commercial area at Pavalam Street - Iii,83,Pavalam Street - Iii,Sanitation,2026-01-06,In Progress,CORPORATION TWO WHEELER PARKING,COMMERCIAL
+547,Unsafe surroundings near school at Mohamed Kani Street,84,Mohamed Kani Street,Roads,2026-01-07,In Progress,CORPORATION SCHOOL,EDUCATIONAL
+548,Public toilet not cleaned at Mohamed Kani Street,84,Mohamed Kani Street,Sanitation,2026-01-08,Open,CORPORATION SCHOOL,EDUCATIONAL
+549,Civic maintenance issue reported at Ramar Kovil Street,84,Ramar Kovil Street,Maintenance,2026-01-09,Open,CORPORATION MARKET,DAILY MARKET
+550,Public facility locked or unusable at Pattakara Ayyasamy Kovil Street,84,Pattakara Ayyasamy Kovil Street,Sanitation,2026-01-10,In Progress,CORPORATION PUBLIC TOILET,PUBLIC
+551,Public facility locked or unusable at Ayyasamy Kovil Street,84,Ayyasamy Kovil Street,Sanitation,2026-01-11,Open,CORPORATION PUBLIC TOILET,PUBLIC
+552,Public facility locked or unusable at Kampatti Colony Road,84,Kampatti Colony Road,Sanitation,2026-01-12,Open,CORPORATION PUBLIC TOILET,PUBLIC
+553,Civic maintenance issue reported at Kampatti Colony Road,84,Kampatti Colony Road,Maintenance,2026-01-13,Resolved,CORPORATION PUBLIC TOILET,PUBLIC
+554,Broken road near school at Ramar Kovil Street,84,Ramar Kovil Street,Roads,2026-01-14,Open,CORPORATION MARKET,DAILY MARKET
+555,Traffic congestion near commercial area at Kampatti Colony Housing Unit,84,Kampatti Colony Housing Unit,Sanitation,2026-01-15,In Progress,CORPORATION SHOPS,COMMERCIAL
+556,Garbage overflow near commercial area at Nadar Street,84,Nadar Street,Sanitation,2026-01-16,Resolved,CORPORATION SHOPS,COMMERCIAL
+557,Water stagnation near hospital at Vaisyal Street,84,Vaisyal Street,Health,2026-01-17,Open,GOVERMENT HOSPITAL,HOSPITAL
+558,Garbage overflow near commercial area at Palayam Thottam Fourth Cross,84,Palayam Thottam Fourth Cross,Sanitation,2026-01-18,In Progress,CORPORATION MOTOR SHED,COMMERCIAL
+559,Garbage overflow near commercial area at Nadar Street,84,Nadar Street,Sanitation,2026-01-19,Open,CORPORATION SHOPS,COMMERCIAL
+560,Cleanliness issue reported at Dharmaraja Kovil Street,84,Dharmaraja Kovil Street,Maintenance,2026-01-20,In Progress,CCMC KALYANA MANDABAM,MARRIAGE HALL
+561,Cleanliness issue reported at Kampatti Colony Housing Unit,84,Kampatti Colony Housing Unit,Maintenance,2026-01-21,Resolved,CORPORATION SHOPS,COMMERCIAL
+562,Garbage accumulation inside park at Govindasamy Layout,85,Govindasamy Layout,Parks,2026-01-22,In Progress,CHILDRENS PARK,PARK
+563,Civic maintenance issue reported at Aadhi Sakthi Nagar,86,Aadhi Sakthi Nagar,Maintenance,2026-01-23,Open,SATHUNAVU KOODAM,OTHERS
+564,Drain overflow near school at Azad Nagar 6,86,Azad Nagar 6,Roads,2026-01-24,Open,ANGANVAADI,EDUCATIONAL
+565,Broken road near school at Cheran Nagar,86,Cheran Nagar,Roads,2026-01-25,Open,COIMBATORE CORPORATION SCHOOL,EDUCATIONAL
+566,Cleanliness issue reported at Bypass Road,86,Bypass Road,Maintenance,2026-01-26,Open,CORPORATION SEWERAGE OFFICE & QUARTERS,RESIDENTIAL
+567,Garbage dump near office at Ukkadam South Housing Unit,86,Ukkadam South Housing Unit,Maintenance,2026-01-27,In Progress,CORPORATION SEWERAGE OFFICE,OFFICE
+568,Cleanliness issue reported at Ukkadam South Housing Unit,86,Ukkadam South Housing Unit,Maintenance,2026-01-28,Resolved,CORPORATION SEWERAGE OFFICE,OFFICE
+569,Civic maintenance issue reported at Ukkadam South Housing Unit,86,Ukkadam South Housing Unit,Maintenance,2026-01-29,Resolved,CORPORATION SEWERAGE OFFICE,OFFICE
+570,Drain overflow near school at M C R Nagar,86,M C R Nagar,Roads,2026-01-30,Resolved,COIMBATORE ATHTHAR JAMATH SCHOOL,EDUCATIONAL
+571,Water supply missing at public facility on Azad Nagar,86,Azad Nagar,Sanitation,2026-01-31,Open,CORPORATION TOILET,PUBLIC
+572,Public toilet not cleaned at Bilal Nagar,86,Bilal Nagar,Sanitation,2026-02-01,In Progress,CORPORATION TOILET,PUBLIC
+573,Cleanliness issue reported at Ukkadam South Housing Unit,86,Ukkadam South Housing Unit,Maintenance,2026-02-02,In Progress,CORPORATION SEWERAGE OFFICE,OFFICE
+574,Unsafe surroundings near school at Aadhi Sakthi Nagar,86,Aadhi Sakthi Nagar,Roads,2026-02-03,Resolved,SATHUNAVU KOODAM,OTHERS
+575,Broken road near school at Kallamedu Road,86,Kallamedu Road,Roads,2026-02-04,In Progress,ANGANVAADI,EDUCATIONAL
+576,Drain overflow near school at Kallamedu Road,86,Kallamedu Road,Roads,2026-02-05,In Progress,ANGANVAADI,EDUCATIONAL
+577,Civic maintenance issue reported at Selvapuram Housing Unit,86,Selvapuram Housing Unit,Maintenance,2026-02-06,In Progress,BURIAL GROUND,BURIAL GROUND
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
