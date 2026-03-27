@@ -2,18 +2,13 @@ const express = require('express')
 const router = express.Router()
 const supabase = require('../config/supabase')
 const analyzeComplaint = require('../utils/analyzeComplaint')
-const auth = require('../middleware/auth')
 
-// Submit complaint — PUBLIC
 router.post('/', async (req, res) => {
   try {
     const { citizen_name, phone, complaint_text, ward_number, street } = req.body
     const ai = analyzeComplaint(complaint_text)
-
     const { data, error } = await supabase.from('complaints').insert([{
-      citizen_name,
-      phone,
-      complaint_text,
+      citizen_name, phone, complaint_text,
       ward_complaint: parseInt(ward_number),
       street,
       department: ai.department,
@@ -22,7 +17,6 @@ router.post('/', async (req, res) => {
       asset_type: ai.asset_type,
       date: new Date().toISOString().split('T')[0]
     }]).select().single()
-
     if (error) throw error
     res.json({ success: true, complaint: data, ai_analysis: ai })
   } catch (err) {
@@ -30,8 +24,7 @@ router.post('/', async (req, res) => {
   }
 })
 
-// Get all complaints — admin
-router.get('/', auth.adminOnly, async (req, res) => {
+router.get('/', async (req, res) => {
   try {
     const { ward, department, status, limit = 50 } = req.query
     let query = supabase.from('complaints').select('*').order('date', { ascending: false }).limit(parseInt(limit))
@@ -46,30 +39,24 @@ router.get('/', auth.adminOnly, async (req, res) => {
   }
 })
 
-// Get stats — dashboard KPIs
-router.get('/stats', auth.adminOnly, async (req, res) => {
+router.get('/stats', async (req, res) => {
   try {
     const { data: all } = await supabase.from('complaints').select('status, is_escalated, department, ward_complaint')
-
     const total = all.length
     const resolved = all.filter(c => c.status === 'Resolved').length
     const open = all.filter(c => c.status === 'Open').length
     const inProgress = all.filter(c => c.status === 'In Progress').length
     const escalated = all.filter(c => c.is_escalated).length
     const resolutionRate = total > 0 ? Math.round((resolved / total) * 100) : 0
-
-    // Department breakdown
     const deptMap = {}
     all.forEach(c => { deptMap[c.department] = (deptMap[c.department] || 0) + 1 })
     const departments = Object.entries(deptMap).map(([name, count]) => ({ name, count })).sort((a, b) => b.count - a.count)
-
     res.json({ total, resolved, open, inProgress, escalated, resolutionRate, departments })
   } catch (err) {
     res.status(500).json({ error: err.message })
   }
 })
 
-// Analyze text only — AI Classifier
 router.post('/analyze', async (req, res) => {
   try {
     const { text } = req.body
@@ -80,8 +67,7 @@ router.post('/analyze', async (req, res) => {
   }
 })
 
-// Update complaint
-router.patch('/:id', auth.adminOnly, async (req, res) => {
+router.patch('/:id', async (req, res) => {
   try {
     const updates = { ...req.body }
     if (updates.status === 'Resolved') updates.resolved_at = new Date().toISOString()

@@ -2,21 +2,16 @@ const express = require('express')
 const router = express.Router()
 const supabase = require('../config/supabase')
 const { calculateGIS, getGISStatus } = require('../utils/calculateGIS')
-const auth = require('../middleware/auth')
 
-// Get all ward scores
-router.get('/scores', auth.adminOnly, async (req, res) => {
+router.get('/scores', async (req, res) => {
   try {
     const { data: all } = await supabase.from('complaints').select('ward_complaint, status, is_escalated, department')
-
-    // Group by ward
     const wardMap = {}
     all.forEach(c => {
       const w = c.ward_complaint
       if (!wardMap[w]) wardMap[w] = []
       wardMap[w].push(c)
     })
-
     const wards = Object.entries(wardMap).map(([ward, complaints]) => {
       const score = calculateGIS(complaints)
       const status = getGISStatus(score)
@@ -31,19 +26,16 @@ router.get('/scores', auth.adminOnly, async (req, res) => {
         escalated: complaints.filter(c => c.is_escalated).length,
       }
     }).sort((a, b) => a.ward_number - b.ward_number)
-
     const districtGIS = Math.round(wards.reduce((s, w) => s + w.score, 0) / wards.length)
     const bestWard = wards.reduce((a, b) => a.score > b.score ? a : b)
     const worstWard = wards.reduce((a, b) => a.score < b.score ? a : b)
-
     res.json({ wards, districtGIS, bestWard, worstWard, totalWards: wards.length })
   } catch (err) {
     res.status(500).json({ error: err.message })
   }
 })
 
-// Single ward detail
-router.get('/:ward', auth.adminOnly, async (req, res) => {
+router.get('/:ward', async (req, res) => {
   try {
     const { data } = await supabase.from('complaints').select('*').eq('ward_complaint', req.params.ward)
     const score = calculateGIS(data)
